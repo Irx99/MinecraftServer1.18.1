@@ -1,51 +1,50 @@
-[17:56:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:56:30] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:56:30] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:56:30] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:56:30] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:56:30] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:56:30] [ServerMain/INFO]: Reloading ResourceManager: Default
-[17:56:31] [Worker-Main-26/INFO]: Loaded 7 recipes
-[17:56:32] [Worker-Main-26/INFO]: Loaded 1141 advancements
-[17:56:35] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[17:56:35] [Server thread/INFO]: Loading properties
-[17:56:35] [Server thread/INFO]: Default game type: SURVIVAL
-[17:56:35] [Server thread/INFO]: Generating keypair
-[17:56:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:56:36] [Server thread/INFO]: Using default channel type
-[17:56:36] [Server thread/INFO]: Preparing level "world"
-[17:56:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:56:37] [Worker-Main-43/INFO]: Preparing spawn area: 0%
-[17:56:37] [Worker-Main-43/INFO]: Preparing spawn area: 0%
-[17:56:37] [Worker-Main-43/INFO]: Preparing spawn area: 0%
-[17:56:38] [Worker-Main-39/INFO]: Preparing spawn area: 0%
-[17:56:38] [Worker-Main-27/INFO]: Preparing spawn area: 0%
-[17:56:39] [Worker-Main-36/INFO]: Preparing spawn area: 0%
-[17:56:39] [Worker-Main-39/INFO]: Preparing spawn area: 3%
-[17:56:40] [Worker-Main-24/INFO]: Preparing spawn area: 20%
-[17:56:41] [Worker-Main-46/INFO]: Preparing spawn area: 39%
-[17:56:41] [Worker-Main-27/INFO]: Preparing spawn area: 39%
-[17:56:41] [Worker-Main-46/INFO]: Preparing spawn area: 39%
-[17:56:41] [Server thread/INFO]: Time elapsed: 5299 ms
-[17:56:41] [Server thread/INFO]: Done (5.468s)! For help, type "help"
-[18:00:45] [User Authenticator #1/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
-[18:00:45] [Server thread/INFO]: Agonesc[/37.134.58.78:65200] logged in with entity id 74 at (-516.4859585056367, 73.0, -1665.3641826686792)
-[18:00:45] [Server thread/INFO]: Agonesc joined the game
-[18:06:13] [Server thread/INFO]: <Agonesc> -759/-15/-1581
-[18:09:38] [Server thread/INFO]: Agonesc drowned
-[18:10:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:10:04] [Server thread/INFO]: pero bro<--[HERE]
-[18:10:10] [Server thread/INFO]: [Server] pero bro
-[18:10:21] [Server thread/INFO]: <Agonesc> no me ha dado tiempo
-[18:12:05] [Server thread/INFO]: Agonesc lost connection: Disconnected
-[18:12:05] [Server thread/INFO]: Agonesc left the game
-[18:13:00] [Server thread/INFO]: Stopping server
-[18:13:00] [Server thread/INFO]: Saving players
-[18:13:00] [Server thread/INFO]: Saving worlds
-[18:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:02] [Server thread/INFO]: Agonesc was blown up by Creeper
+[00:01:03] [Server thread/INFO]: Skipping update from removed player 'adj['Agonesc'/24390, l='ServerLevel[world]', x=-754.49, y=-42.10, z=-1617.70, removed=KILLED]'
+[00:01:03] [Server thread/INFO]: Skipping update from removed player 'adj['Agonesc'/24390, l='ServerLevel[world]', x=-754.46, y=-42.12, z=-1617.70, removed=KILLED]'
+[00:01:31] [Server thread/INFO]: <Irx99> -754 -42 -1617
+[00:03:24] [Server thread/INFO]: 5ambero has made the advancement [A Terrible Fortress]
+[00:04:43] [Server thread/INFO]: Agonesc tried to swim in lava
+[00:04:44] [Server thread/INFO]: Skipping update from removed player 'adj['Agonesc'/24390, l='ServerLevel[world]', x=-620.36, y=26.29, z=-1551.01, removed=KILLED]'
+[00:04:44] [Server thread/INFO]: Skipping update from removed player 'adj['Agonesc'/24390, l='ServerLevel[world]', x=-620.36, y=26.24, z=-1551.01, removed=KILLED]'
+[00:05:57] [Server thread/INFO]: 5ambero has completed the challenge [Hot Tourist Destinations]
+[00:07:42] [Server thread/INFO]: 5ambero has completed the challenge [Return to Sender]
+[00:08:45] [Server thread/INFO]: Agonesc fell from a high place
+[00:08:46] [Server thread/INFO]: Skipping update from removed player 'adj['Agonesc'/24390, l='ServerLevel[world]', x=-634.94, y=-9.00, z=-1655.54, removed=KILLED]'
+[00:09:54] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[00:09:54] [Server thread/INFO]: Agonesc left the game
+[00:10:41] [Server thread/INFO]: lopezan11 has made the advancement [Sweet Dreams]
+[00:10:44] [Server thread/INFO]: lopezan11 was blown up by Creeper
+[00:12:37] [Server thread/INFO]: lopezan11 fell from a high place
+[00:12:38] [Server thread/INFO]: Skipping update from removed player 'adj['lopezan11'/25153, l='ServerLevel[world]', x=95.15, y=70.00, z=-19.35, removed=KILLED]'
+[00:13:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:13:17] [Server thread/INFO]: /admin irx99<--[HERE]
+[00:13:36] [Server thread/INFO]: Made Irx99 a server operator
+[00:14:00] [Server thread/INFO]: [Irx99: Teleported Irx99 to lopezan11]
+[00:14:00] [Server thread/WARN]: Irx99 moved too quickly! 546.2388656857985,40.0,1676.2847787062321
+[00:14:18] [Server thread/INFO]: [Irx99: Set own game mode to Spectator Mode]
+[00:14:59] [Server thread/INFO]: [Irx99: Teleported Irx99 to -499.500000, 150.000000, -1699.500000]
+[00:14:59] [Server thread/WARN]: Irx99 moved too quickly! -548.1439171640583,18.201848232881957,-1702.5322884092657
+[00:14:59] [Server thread/WARN]: Irx99 moved too quickly! -548.1439171640583,18.201848232881957,-1702.5322884092657
+[00:15:08] [Server thread/INFO]: [Irx99: Set own game mode to Creative Mode]
+[00:15:20] [Server thread/INFO]: [Irx99: Teleported lopezan11 to Irx99]
+[00:15:27] [Server thread/INFO]: [Irx99: Set own game mode to Survival Mode]
+[00:19:09] [Server thread/INFO]: Irx99 has made the advancement [Glow and Behold!]
+[00:19:28] [Server thread/INFO]: lopezan11 hit the ground too hard
+[00:19:29] [Server thread/INFO]: Skipping update from removed player 'adj['lopezan11'/25153, l='ServerLevel[world]', x=-631.94, y=-18.00, z=-1766.44, removed=KILLED]'
+[00:21:35] [Server thread/INFO]: lopezan11 has made the advancement [A Seedy Place]
+[00:26:55] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[00:26:55] [Server thread/INFO]: Irx99 left the game
+[00:26:55] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:26:55] [Server thread/INFO]: 5ambero left the game
+[00:26:58] [Server thread/INFO]: lopezan11 lost connection: Disconnected
+[00:26:58] [Server thread/INFO]: lopezan11 left the game
+[00:27:16] [Server thread/INFO]: Stopping server
+[00:27:16] [Server thread/INFO]: Saving players
+[00:27:16] [Server thread/INFO]: Saving worlds
+[00:27:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:27:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:27:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
