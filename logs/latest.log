@@ -1,29 +1,18 @@
-[00:01:28] [Server thread/INFO]: <Agonesc> -921/30/-1770
-[00:17:05] [Server thread/INFO]: 5ambero has made the advancement [Spooky Scary Skeleton]
-[00:19:06] [Server thread/INFO]: Tactical_July has made the advancement [A Seedy Place]
-[00:24:25] [Server thread/INFO]: <lopezan11> -532, -32, -1768
-[00:24:59] [Server thread/INFO]: Tactical_July has made the advancement [The Parrots and the Bats]
-[00:25:07] [Server thread/INFO]: 5ambero has made the advancement [Diamonds!]
-[00:29:09] [Server thread/INFO]: 5ambero has made the advancement [Into Fire]
-[00:29:40] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[00:29:40] [Server thread/INFO]: Tactical_July left the game
-[00:33:32] [Server thread/INFO]: lopezan11 drowned
-[00:33:33] [Server thread/INFO]: Skipping update from removed player 'adj['lopezan11'/22433, l='ServerLevel[world]', x=-570.77, y=5.82, z=-1728.06, removed=KILLED]'
-[00:34:46] [Server thread/INFO]: Agonesc lost connection: Disconnected
-[00:34:46] [Server thread/INFO]: Agonesc left the game
-[00:50:46] [Server thread/INFO]: lopezan11 lost connection: Disconnected
-[00:50:46] [Server thread/INFO]: lopezan11 left the game
-[00:50:59] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:50:59] [Server thread/INFO]: Irx99 left the game
-[00:51:00] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:51:00] [Server thread/INFO]: 5ambero left the game
-[00:51:09] [Server thread/INFO]: Stopping server
-[00:51:09] [Server thread/INFO]: Saving players
-[00:51:09] [Server thread/INFO]: Saving worlds
-[00:51:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:51:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:51:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:46:27] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:46:27] [Server thread/INFO]: Tactical_July left the game
+[00:46:34] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[00:46:34] [Server thread/INFO]: Irx99 left the game
+[00:47:27] [Server thread/INFO]: [Server] venga fuera
+[00:47:33] [Server thread/INFO]: [Server] en animales
+[00:47:40] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:47:40] [Server thread/INFO]: 5ambero left the game
+[00:47:44] [Server thread/INFO]: Stopping server
+[00:47:44] [Server thread/INFO]: Saving players
+[00:47:44] [Server thread/INFO]: Saving worlds
+[00:47:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:47:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:47:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
