@@ -1,18 +1,84 @@
-[00:46:27] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[00:46:27] [Server thread/INFO]: Tactical_July left the game
-[00:46:34] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:46:34] [Server thread/INFO]: Irx99 left the game
-[00:47:27] [Server thread/INFO]: [Server] venga fuera
-[00:47:33] [Server thread/INFO]: [Server] en animales
-[00:47:40] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:47:40] [Server thread/INFO]: 5ambero left the game
-[00:47:44] [Server thread/INFO]: Stopping server
-[00:47:44] [Server thread/INFO]: Saving players
-[00:47:44] [Server thread/INFO]: Saving worlds
-[00:47:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:47:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:47:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:47:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:15] [Server thread/INFO]: Lalmeja fell from a high place
+[00:00:16] [Server thread/INFO]: Skipping update from removed player 'adj['Lalmeja'/103676, l='ServerLevel[world]', x=-656.10, y=118.00, z=-1623.99, removed=KILLED]'
+[00:08:49] [Server thread/INFO]: Gandhi_Crush has made the advancement [Acquire Hardware]
+[00:09:05] [Server thread/INFO]: Tactical_July has made the advancement [Tactical Fishing]
+[00:10:00] [Server thread/INFO]: BrujaPiruja has made the advancement [Acquire Hardware]
+[00:15:36] [Server thread/INFO]: Irx99 has made the advancement [The Cutest Predator]
+[00:16:00] [Server thread/INFO]: Irx99 has made the advancement [Voluntary Exile]
+[00:17:10] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[00:17:10] [Server thread/INFO]: Agonesc left the game
+[00:17:11] [Server thread/INFO]: Gandhi_Crush lost connection: Disconnected
+[00:17:11] [Server thread/INFO]: Gandhi_Crush left the game
+[00:17:11] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:17:11] [Server thread/INFO]: Lalmeja left the game
+[00:17:11] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:17:11] [Server thread/INFO]: 5ambero left the game
+[00:17:14] [Server thread/INFO]: lopezan11 lost connection: Disconnected
+[00:17:14] [Server thread/INFO]: lopezan11 left the game
+[00:17:14] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:17:14] [Server thread/INFO]: Tactical_July left the game
+[00:17:17] [Server thread/INFO]: BrujaPiruja lost connection: Timed out
+[00:17:17] [Server thread/INFO]: BrujaPiruja left the game
+[00:17:28] [User Authenticator #29/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[00:17:28] [Server thread/INFO]: Agonesc[/37.134.58.78:54984] logged in with entity id 117614 at (-482.7436814555172, 64.0, -1768.7298862145167)
+[00:17:28] [Server thread/INFO]: Agonesc joined the game
+[00:17:29] [User Authenticator #30/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[00:17:29] [Server thread/INFO]: 5ambero[/90.173.206.174:10493] logged in with entity id 117703 at (-667.6822938862301, 101.0, -1544.4302132061507)
+[00:17:29] [Server thread/INFO]: 5ambero joined the game
+[00:17:29] [User Authenticator #31/INFO]: UUID of player Gandhi_Crush is 00d87004-c9b7-4c8a-b85e-cb9d62dcc20f
+[00:17:29] [Server thread/INFO]: Gandhi_Crush[/95.169.231.28:59417] logged in with entity id 117822 at (-525.7758755046087, 81.0, -1712.1605945533865)
+[00:17:29] [Server thread/INFO]: Gandhi_Crush joined the game
+[00:17:34] [User Authenticator #32/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[00:17:34] [Server thread/INFO]: Tactical_July[/90.173.206.174:10508] logged in with entity id 117958 at (-513.2241182839764, 72.0, -1668.0124556618703)
+[00:17:34] [Server thread/INFO]: Tactical_July joined the game
+[00:17:39] [User Authenticator #33/INFO]: UUID of player BrujaPiruja is 2be45e62-1df2-4b4b-9971-595af0526e1a
+[00:17:39] [Server thread/INFO]: BrujaPiruja[/79.151.212.179:49528] logged in with entity id 117989 at (-570.918321053062, 78.0, -1757.2985429803114)
+[00:17:39] [Server thread/INFO]: BrujaPiruja joined the game
+[00:17:44] [User Authenticator #34/INFO]: UUID of player lopezan11 is b228161b-211a-46f3-bb10-ee70f536944f
+[00:17:44] [Server thread/INFO]: lopezan11[/88.15.32.214:56272] logged in with entity id 118046 at (-480.94674287012816, 70.0, -1672.826296027675)
+[00:17:44] [Server thread/INFO]: lopezan11 joined the game
+[00:20:19] [User Authenticator #35/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[00:20:19] [Server thread/INFO]: Lalmeja[/88.19.13.149:61909] logged in with entity id 119374 at (-509.73682353927774, 72.0, -1676.6899563704706)
+[00:20:19] [Server thread/INFO]: Lalmeja joined the game
+[00:24:10] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:24:10] [Server thread/INFO]: Lalmeja left the game
+[00:24:12] [User Authenticator #36/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[00:24:12] [Server thread/INFO]: Lalmeja[/88.19.13.149:62222] logged in with entity id 121625 at (-520.7389909507859, 81.0, -1715.8171121989321)
+[00:24:12] [Server thread/INFO]: Lalmeja joined the game
+[00:24:58] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:24:58] [Server thread/INFO]: Lalmeja left the game
+[00:25:00] [User Authenticator #37/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[00:25:00] [Server thread/INFO]: Lalmeja[/88.19.13.149:62392] logged in with entity id 122051 at (-520.7389909507859, 81.0, -1715.8171121989321)
+[00:25:00] [Server thread/INFO]: Lalmeja joined the game
+[00:26:37] [Server thread/INFO]: Lalmeja has made the advancement [Fishy Business]
+[00:27:54] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[00:27:54] [Server thread/INFO]: Agonesc left the game
+[00:31:37] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:31:37] [Server thread/INFO]: Tactical_July left the game
+[00:32:19] [Server thread/INFO]: BrujaPiruja lost connection: Disconnected
+[00:32:19] [Server thread/INFO]: BrujaPiruja left the game
+[00:32:25] [User Authenticator #38/INFO]: UUID of player BrujaPiruja is 2be45e62-1df2-4b4b-9971-595af0526e1a
+[00:32:25] [Server thread/INFO]: BrujaPiruja[/79.151.212.179:49599] logged in with entity id 125358 at (-562.2714921383571, 73.0, -1744.2569608104138)
+[00:32:25] [Server thread/INFO]: BrujaPiruja joined the game
+[00:33:01] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:33:01] [Server thread/INFO]: Lalmeja left the game
+[00:33:14] [Server thread/INFO]: BrujaPiruja lost connection: Disconnected
+[00:33:14] [Server thread/INFO]: BrujaPiruja left the game
+[00:33:16] [Server thread/INFO]: Gandhi_Crush lost connection: Disconnected
+[00:33:16] [Server thread/INFO]: Gandhi_Crush left the game
+[00:36:35] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[00:36:35] [Server thread/INFO]: Irx99 left the game
+[00:36:37] [Server thread/INFO]: lopezan11 lost connection: Disconnected
+[00:36:37] [Server thread/INFO]: lopezan11 left the game
+[00:36:37] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:36:37] [Server thread/INFO]: 5ambero left the game
+[00:36:44] [Server thread/INFO]: Stopping server
+[00:36:44] [Server thread/INFO]: Saving players
+[00:36:44] [Server thread/INFO]: Saving worlds
+[00:36:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:36:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:36:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

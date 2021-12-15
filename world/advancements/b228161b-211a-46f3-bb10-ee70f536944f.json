@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-12-15 23:10:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-12-14 00:39:32 +0100"
@@ -340,6 +346,7 @@
       "cooked_mutton": "2021-12-12 23:40:40 +0100",
       "sweet_berries": "2021-12-12 23:08:05 +0100",
       "cooked_beef": "2021-12-12 23:18:56 +0100",
+      "baked_potato": "2021-12-15 22:58:29 +0100",
       "glow_berries": "2021-12-12 23:00:08 +0100",
       "beetroot": "2021-12-14 00:49:15 +0100",
       "cooked_chicken": "2021-12-12 23:05:46 +0100",
@@ -701,15 +708,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2021-12-14 00:39:32 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-13 23:46:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2021-12-14 00:39:32 +0100"
     },
     "done": true
   },
@@ -829,6 +836,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-12-16 00:16:03 +0100",
       "minecraft:skeleton": "2021-12-12 23:00:03 +0100",
       "minecraft:spider": "2021-12-12 23:41:20 +0100",
       "minecraft:creeper": "2021-12-14 00:01:22 +0100",
@@ -1107,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-12-15 22:58:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-12-12 23:41:20 +0100"
@@ -1185,15 +1199,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2021-12-14 00:39:03 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-13 23:46:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-12-14 00:39:03 +0100"
     },
     "done": true
   },
@@ -1443,15 +1457,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2021-12-14 00:39:32 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-12-14 00:36:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2021-12-14 00:39:32 +0100"
     },
     "done": true
   },
@@ -1550,6 +1564,7 @@
       "minecraft:old_growth_pine_taiga": "2021-12-12 22:57:22 +0100",
       "minecraft:taiga": "2021-12-12 22:56:06 +0100",
       "minecraft:frozen_river": "2021-12-13 00:09:29 +0100",
+      "minecraft:sunflower_plains": "2021-12-15 23:28:53 +0100",
       "minecraft:river": "2021-12-12 22:57:23 +0100",
       "minecraft:stony_shore": "2021-12-12 22:54:32 +0100",
       "minecraft:snowy_plains": "2021-12-13 00:08:51 +0100",
@@ -1696,21 +1711,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2021-12-16 00:01:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-12-12 23:22:32 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2021-12-14 00:46:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-13 23:46:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2021-12-14 00:46:56 +0100"
     },
     "done": true
   },
