@@ -566,7 +566,8 @@
       "minecraft:cave_spider": "2021-12-20 22:52:28 +0100",
       "minecraft:piglin": "2021-12-12 22:40:41 +0100",
       "minecraft:zombie": "2021-12-11 12:21:28 +0100",
-      "minecraft:drowned": "2021-12-11 13:04:30 +0100"
+      "minecraft:drowned": "2021-12-11 13:04:30 +0100",
+      "minecraft:zombie_villager": "2021-12-22 00:28:17 +0100"
     },
     "done": false
   },
@@ -669,6 +670,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-12-11 12:30:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2021-12-22 00:26:12 +0100"
     },
     "done": true
   },
@@ -1330,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2021-12-22 00:22:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2021-12-14 00:06:00 +0100"
@@ -1667,6 +1680,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-12-12 23:27:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2021-12-22 00:22:12 +0100"
     },
     "done": true
   },
@@ -2703,6 +2722,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-11 13:29:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2021-12-22 00:26:12 +0100"
     },
     "done": true
   },

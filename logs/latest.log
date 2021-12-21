@@ -1,36 +1,47 @@
-[00:00:37] [Server thread/INFO]: Lalmeja has made the advancement [Diamonds!]
-[00:01:46] [Server thread/INFO]: <Lalmeja> -60,60,-210
-[00:01:56] [Server thread/INFO]: <Irx99> eso q es?
-[00:02:07] [Server thread/INFO]: <Lalmeja> coords del portal nether pa mi
-[00:02:10] [Server thread/INFO]: <Irx99> okai
-[00:02:23] [Server thread/INFO]: <5ambero> eres un cacaw
-[00:02:25] [Server thread/INFO]: <5ambero> cacas
-[00:03:39] [Server thread/INFO]: Lalmeja has made the advancement [Who is Cutting Onions?]
-[00:11:36] [Server thread/INFO]: Villager bne['Villager'/51389, l='ServerLevel[world]', x=-486.12, y=64.00, z=-1782.49] died, message: 'Villager suffocated in a wall'
-[00:26:01] [Server thread/INFO]: Lalmeja burned to death
-[00:26:04] [Server thread/INFO]: <5ambero> F
-[00:26:06] [Server thread/INFO]: <Irx99> f
-[00:26:12] [Server thread/INFO]: <Lalmeja> -84 60 -197
-[00:27:46] [Server thread/INFO]: <Lalmeja> a 20 metros del portal me habia muerto
-[00:27:49] [Server thread/INFO]: <Lalmeja> amazing
-[00:27:58] [Server thread/INFO]: <Lalmeja> yo lo dejo ya hemte,pasenla buena
-[00:28:05] [Server thread/INFO]: <5ambero> bona nit
-[00:28:14] [Server thread/INFO]: <Irx99> chao chao o/
-[00:28:20] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[00:28:20] [Server thread/INFO]: Lalmeja left the game
-[00:51:15] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:51:15] [Server thread/INFO]: 5ambero left the game
-[00:51:39] [Server thread/INFO]: Agonesc lost connection: Disconnected
-[00:51:39] [Server thread/INFO]: Agonesc left the game
-[00:51:43] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:51:43] [Server thread/INFO]: Irx99 left the game
-[00:51:48] [Server thread/INFO]: Stopping server
-[00:51:48] [Server thread/INFO]: Saving players
-[00:51:48] [Server thread/INFO]: Saving worlds
-[00:51:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:51:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:51:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:51:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:51:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:51:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:51:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:25] [User Authenticator #6/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[00:00:25] [Server thread/INFO]: 5ambero[/90.173.206.174:12365] logged in with entity id 33253 at (-516.4747244980418, 71.0, -1671.7020744999952)
+[00:00:25] [Server thread/INFO]: 5ambero joined the game
+[00:00:46] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:00:46] [Server thread/INFO]: 5ambero left the game
+[00:01:34] [User Authenticator #7/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[00:01:34] [Server thread/INFO]: 5ambero[/90.173.206.174:12478] logged in with entity id 34087 at (-496.1021682253572, 75.0, -1638.1412710368948)
+[00:01:34] [Server thread/INFO]: 5ambero joined the game
+[00:01:52] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:01:52] [Server thread/INFO]: 5ambero left the game
+[00:10:03] [User Authenticator #8/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[00:10:03] [Server thread/INFO]: 5ambero[/91.117.160.234:8786] logged in with entity id 37457 at (-487.5663443254704, 75.0, -1633.7074414790113)
+[00:10:03] [Server thread/INFO]: 5ambero joined the game
+[00:13:58] [Server thread/WARN]: Yegua de Mierda (vehicle of 5ambero) moved wrongly! 0.3373025474922997
+[00:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=77, z=-1704} gh{x=-526, y=78, z=-1705}
+[00:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=77, z=-1704} gh{x=-526, y=78, z=-1705}
+[00:34:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=80, z=-1711} gh{x=-526, y=77, z=-1713}
+[00:34:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=80, z=-1711} gh{x=-526, y=77, z=-1713}
+[00:34:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=80, z=-1711} gh{x=-526, y=77, z=-1713}
+[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
+[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
+[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
+[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
+[00:37:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=76, z=-1721} gh{x=-525, y=76, z=-1740}
+[00:37:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=76, z=-1721} gh{x=-525, y=76, z=-1740}
+[00:37:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=76, z=-1721} gh{x=-525, y=76, z=-1740}
+[00:37:04] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
+[00:37:04] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
+[00:37:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
+[00:37:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
+[00:37:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=76, z=-1730} gh{x=-524, y=76, z=-1731}
+[00:37:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=76, z=-1730} gh{x=-524, y=76, z=-1731}
+[00:37:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=76, z=-1724} gh{x=-525, y=74, z=-1706}
+[00:42:55] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:42:55] [Server thread/INFO]: 5ambero left the game
+[00:43:26] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[00:43:26] [Server thread/INFO]: Irx99 left the game
+[00:44:16] [Server thread/INFO]: Stopping server
+[00:44:16] [Server thread/INFO]: Saving players
+[00:44:16] [Server thread/INFO]: Saving worlds
+[00:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
