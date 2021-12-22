@@ -1,47 +1,55 @@
-[00:00:25] [User Authenticator #6/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[00:00:25] [Server thread/INFO]: 5ambero[/90.173.206.174:12365] logged in with entity id 33253 at (-516.4747244980418, 71.0, -1671.7020744999952)
-[00:00:25] [Server thread/INFO]: 5ambero joined the game
-[00:00:46] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:00:46] [Server thread/INFO]: 5ambero left the game
-[00:01:34] [User Authenticator #7/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[00:01:34] [Server thread/INFO]: 5ambero[/90.173.206.174:12478] logged in with entity id 34087 at (-496.1021682253572, 75.0, -1638.1412710368948)
-[00:01:34] [Server thread/INFO]: 5ambero joined the game
-[00:01:52] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:01:52] [Server thread/INFO]: 5ambero left the game
-[00:10:03] [User Authenticator #8/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[00:10:03] [Server thread/INFO]: 5ambero[/91.117.160.234:8786] logged in with entity id 37457 at (-487.5663443254704, 75.0, -1633.7074414790113)
-[00:10:03] [Server thread/INFO]: 5ambero joined the game
-[00:13:58] [Server thread/WARN]: Yegua de Mierda (vehicle of 5ambero) moved wrongly! 0.3373025474922997
-[00:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=77, z=-1704} gh{x=-526, y=78, z=-1705}
-[00:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=77, z=-1704} gh{x=-526, y=78, z=-1705}
-[00:34:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=80, z=-1711} gh{x=-526, y=77, z=-1713}
-[00:34:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=80, z=-1711} gh{x=-526, y=77, z=-1713}
-[00:34:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-526, y=80, z=-1711} gh{x=-526, y=77, z=-1713}
-[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
-[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
-[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
-[00:36:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=80, z=-1711} gh{x=-524, y=79, z=-1711}
-[00:37:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=76, z=-1721} gh{x=-525, y=76, z=-1740}
-[00:37:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=76, z=-1721} gh{x=-525, y=76, z=-1740}
-[00:37:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-524, y=76, z=-1721} gh{x=-525, y=76, z=-1740}
-[00:37:04] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
-[00:37:04] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
-[00:37:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
-[00:37:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=73, z=-1744} gh{x=-524, y=73, z=-1744}
-[00:37:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=76, z=-1730} gh{x=-524, y=76, z=-1731}
-[00:37:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=76, z=-1730} gh{x=-524, y=76, z=-1731}
-[00:37:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-525, y=76, z=-1724} gh{x=-525, y=74, z=-1706}
-[00:42:55] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:42:55] [Server thread/INFO]: 5ambero left the game
-[00:43:26] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:43:26] [Server thread/INFO]: Irx99 left the game
-[00:44:16] [Server thread/INFO]: Stopping server
-[00:44:16] [Server thread/INFO]: Saving players
-[00:44:16] [Server thread/INFO]: Saving worlds
-[00:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:22:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:22:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:22:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:22:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:22:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:22:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:22:09] [ServerMain/INFO]: Reloading ResourceManager: Default
+[10:22:10] [Worker-Main-24/INFO]: Loaded 7 recipes
+[10:22:11] [Worker-Main-24/INFO]: Loaded 1141 advancements
+[10:22:15] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[10:22:15] [Server thread/INFO]: Loading properties
+[10:22:15] [Server thread/INFO]: Default game type: SURVIVAL
+[10:22:15] [Server thread/INFO]: Generating keypair
+[10:22:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:22:16] [Server thread/INFO]: Using default channel type
+[10:22:17] [Server thread/INFO]: Preparing level "world"
+[10:22:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:22:18] [Worker-Main-44/INFO]: Preparing spawn area: 0%
+[10:22:18] [Worker-Main-42/INFO]: Preparing spawn area: 0%
+[10:22:18] [Worker-Main-41/INFO]: Preparing spawn area: 0%
+[10:22:18] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[10:22:19] [Worker-Main-45/INFO]: Preparing spawn area: 10%
+[10:22:19] [Worker-Main-43/INFO]: Preparing spawn area: 43%
+[10:22:21] [Worker-Main-36/INFO]: Preparing spawn area: 83%
+[10:22:21] [Worker-Main-36/INFO]: Preparing spawn area: 83%
+[10:22:21] [Server thread/INFO]: Time elapsed: 3899 ms
+[10:22:21] [Server thread/INFO]: Done (4.034s)! For help, type "help"
+[10:33:51] [User Authenticator #1/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[10:33:51] [Server thread/INFO]: Agonesc[/37.134.58.78:54226] logged in with entity id 50 at (-477.9619723066949, 67.0, -1770.3148945546593)
+[10:33:51] [Server thread/INFO]: Agonesc joined the game
+[11:38:33] [Server thread/INFO]: Agonesc has made the advancement [Into Fire]
+[11:45:23] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[11:45:23] [Server thread/INFO]: Agonesc left the game
+[13:00:17] [User Authenticator #2/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[13:00:17] [Server thread/INFO]: Agonesc[/37.134.58.78:51596] logged in with entity id 13366 at (-488.63183365079595, 63.9375, -1766.7886239236054)
+[13:00:17] [Server thread/INFO]: Agonesc joined the game
+[13:28:13] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[13:28:13] [Server thread/INFO]: Agonesc left the game
+[13:37:16] [User Authenticator #3/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[13:37:16] [Server thread/INFO]: Agonesc[/37.134.58.78:52085] logged in with entity id 19812 at (-422.3976337771997, 18.0, -1815.895831690599)
+[13:37:16] [Server thread/INFO]: Agonesc joined the game
+[13:55:44] [Server thread/INFO]: Agonesc was slain by Enderman
+[13:55:47] [Server thread/WARN]: Agonesc moved too quickly! -9.843299283252179,0.0,5.804462675778041
+[14:06:35] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[14:06:35] [Server thread/INFO]: Agonesc left the game
+[18:46:15] [Server thread/INFO]: Stopping server
+[18:46:15] [Server thread/INFO]: Saving players
+[18:46:15] [Server thread/INFO]: Saving worlds
+[18:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
