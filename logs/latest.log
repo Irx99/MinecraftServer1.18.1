@@ -1,17 +1,122 @@
-[00:23:13] [User Authenticator #4/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
-[00:23:13] [Server thread/INFO]: Agonesc[/37.134.58.78:51233] logged in with entity id 33501 at (-498.55810325755886, 71.0, -1671.530350971219)
-[00:23:13] [Server thread/INFO]: Agonesc joined the game
-[00:27:26] [Server thread/INFO]: Agonesc lost connection: Disconnected
-[00:27:26] [Server thread/INFO]: Agonesc left the game
-[00:31:11] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:31:11] [Server thread/INFO]: Irx99 left the game
-[00:40:06] [Server thread/INFO]: Stopping server
-[00:40:06] [Server thread/INFO]: Saving players
-[00:40:06] [Server thread/INFO]: Saving worlds
-[00:40:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:40:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:40:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:40:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:40:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:40:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:40:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:41] [Server thread/INFO]: Tactical_July has made the advancement [Diamonds!]
+[00:03:42] [Server thread/INFO]: Tactical_July has made the advancement [Enchanter]
+[00:51:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-1048, y=118, z=-983} gh{x=-1048, y=119, z=-984}
+[01:03:26] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[01:03:26] [Server thread/INFO]: Tactical_July left the game
+[01:13:31] [Worker-Main-38/ERROR]: Failed to fetch mob spawner entity at (-3425, -34, -1775)
+[01:14:29] [User Authenticator #8/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[01:14:29] [Server thread/INFO]: Agonesc[/37.134.58.78:64879] logged in with entity id 101483 at (-492.00747919646756, 64.0, -1781.1633353258555)
+[01:14:29] [Server thread/INFO]: Agonesc joined the game
+[01:14:37] [Server thread/INFO]: <Agonesc> e
+[01:14:38] [Server thread/INFO]: <Agonesc> e
+[01:14:39] [Server thread/INFO]: <Agonesc> e
+[01:14:40] [Server thread/INFO]: <Irx99> e
+[01:14:43] [Server thread/INFO]: <Lalmeja> E
+[01:14:45] [Server thread/INFO]: <5ambero> f
+[01:14:48] [Server thread/INFO]: <Agonesc> por que los cofres son del betis?
+[01:14:59] [Server thread/INFO]: <Irx99> te salen los de navidad? XD
+[01:15:02] [Server thread/INFO]: <Agonesc> si
+[01:15:11] [Server thread/INFO]: <Agonesc> tienen arbolitos
+[01:15:11] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[01:15:11] [Server thread/INFO]: Lalmeja left the game
+[01:15:12] [User Authenticator #9/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[01:15:13] [Server thread/INFO]: Lalmeja[/88.19.1.28:62648] logged in with entity id 101976 at (-491.91687173736034, 63.0, -1792.1005965753536)
+[01:15:13] [Server thread/INFO]: Lalmeja joined the game
+[01:15:21] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[01:15:21] [Server thread/INFO]: Lalmeja left the game
+[01:16:35] [User Authenticator #10/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[01:16:35] [Server thread/INFO]: Lalmeja[/88.19.1.28:63039] logged in with entity id 103221 at (-493.3605958926546, 64.875, -1774.339948793312)
+[01:16:35] [Server thread/INFO]: Lalmeja joined the game
+[01:16:39] [Server thread/INFO]: <Irx99> estamos en discord
+[01:16:43] [Server thread/INFO]: <Agonesc> lo se
+[01:25:53] [Server thread/INFO]: <Agonesc> tenemos un a raid
+[01:25:57] [Server thread/INFO]: <Irx99> donde?
+[01:26:01] [Server thread/INFO]: <Irx99> y porq
+[01:26:02] [Server thread/INFO]: <Agonesc> aldeanos
+[01:26:03] [Server thread/INFO]: <Agonesc> mercadona
+[01:26:05] [Server thread/INFO]: <Agonesc> estandarte
+[01:26:07] [Server thread/INFO]: <Irx99> pero porqqqqqqqq
+[01:26:13] [Server thread/INFO]: <Agonesc> apareció solo
+[01:26:15] [Server thread/INFO]: <Irx99> la has activado?
+[01:26:21] [Server thread/INFO]: <Agonesc> no
+[01:26:24] [Server thread/INFO]: Villager bne['Fletcher'/263, l='ServerLevel[world]', x=-486.51, y=64.00, z=-1778.51] died, message: 'Fletcher was shot by Pillager'
+[01:26:26] [Server thread/INFO]: <Irx99> pos suda de ellos
+[01:26:33] [Server thread/INFO]: <Agonesc> pero les esta pegando a los aldeanos
+[01:26:37] [Server thread/INFO]: <Irx99> joda
+[01:26:48] [Server thread/INFO]: <Irx99> pos tapa las trapdors
+[01:26:53] [Server thread/INFO]: <Irx99> y no mates al del estandarte
+[01:27:28] [Server thread/INFO]: <Agonesc> desloguead 1 minuto
+[01:27:30] [Server thread/INFO]: <Agonesc> para que hagan despawn
+[01:27:32] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[01:27:32] [Server thread/INFO]: Irx99 left the game
+[01:27:33] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[01:27:33] [Server thread/INFO]: Agonesc left the game
+[01:27:34] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[01:27:34] [Server thread/INFO]: 5ambero left the game
+[01:27:45] [User Authenticator #11/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[01:27:45] [Server thread/INFO]: 5ambero[/91.117.160.234:1052] logged in with entity id 114985 at (-294.2975767488716, 60.0, -365.7405723450452)
+[01:27:45] [Server thread/INFO]: 5ambero joined the game
+[01:28:02] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[01:28:02] [Server thread/INFO]: Lalmeja left the game
+[01:28:02] [Server thread/INFO]: Kicked Lalmeja: Kicked by an operator
+[01:28:02] [Server thread/WARN]: handleDisconnection() called twice
+[01:28:06] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[01:28:06] [Server thread/INFO]: 5ambero left the game
+[01:28:06] [User Authenticator #12/INFO]: UUID of player Irx99 is 46c353ef-21a8-4d3c-85d0-44553c30b77a
+[01:28:06] [Server thread/INFO]: Irx99[/127.0.0.1:53235] logged in with entity id 115214 at (-406.2509774694494, 46.0, -1915.512499988079)
+[01:28:06] [Server thread/INFO]: Irx99 joined the game
+[01:28:08] [User Authenticator #13/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[01:28:08] [Server thread/INFO]: 5ambero[/91.117.160.234:1062] logged in with entity id 115534 at (-320.8728843376611, 60.0, -366.957869504865)
+[01:28:08] [Server thread/INFO]: 5ambero joined the game
+[01:28:12] [User Authenticator #14/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[01:28:12] [Server thread/INFO]: Lalmeja[/88.19.1.28:54984] logged in with entity id 115987 at (-482.4942473300603, 64.0, -1825.3828683204533)
+[01:28:12] [Server thread/INFO]: Lalmeja joined the game
+[01:28:16] [Server thread/INFO]: <Lalmeja> kapasao
+[01:28:22] [Server thread/INFO]: <Lalmeja> mas kikeao
+[01:28:25] [Server thread/INFO]: <Irx99> si
+[01:28:31] [User Authenticator #15/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[01:28:31] [Server thread/INFO]: Agonesc[/37.134.58.78:64922] logged in with entity id 116206 at (-482.89602402956973, 67.0, -1783.7229151964564)
+[01:28:31] [Server thread/INFO]: Agonesc joined the game
+[01:28:32] [Server thread/INFO]: <Lalmeja> pa dormir?
+[01:28:38] [Server thread/INFO]: <Agonesc> sigue
+[01:28:43] [Server thread/INFO]: <Irx99> no, porq teniamos un problema
+[01:28:47] [Server thread/INFO]: <Irx99> q no se ha solucionado
+[01:28:49] [Server thread/INFO]: <Irx99> voy palla
+[01:28:50] [Server thread/INFO]: <Agonesc> ahora ya 2
+[01:29:39] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[01:29:39] [Server thread/INFO]: Lalmeja left the game
+[01:29:41] [Server thread/INFO]: <Agonesc> no nse como funcionan esos adri
+[01:31:36] [Server thread/INFO]: <Irx99> falta alguno?
+[01:31:52] [Server thread/INFO]: <Irx99> el problema es el del estandarte
+[01:32:08] [Server thread/INFO]: <Irx99> porq te da lo q activa las raids
+[01:44:33] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[01:44:33] [Server thread/INFO]: 5ambero left the game
+[01:50:01] [Server thread/INFO]: <Irx99> hora de sobar zzzzzz
+[01:50:17] [Server thread/INFO]: <Agonesc> adri
+[01:50:23] [Server thread/INFO]: <Irx99> con q andas? cuanto te queda?
+[01:50:26] [Server thread/INFO]: <Agonesc> en la mina de deepslate
+[01:50:36] [Server thread/INFO]: <Agonesc> al fondo verás un camino que sube
+[01:50:42] [Server thread/INFO]: <Agonesc> da a una cueva inexplorada
+[01:51:00] [Server thread/INFO]: <Agonesc> hay que sacar diamante de aquí con el pico de silk touch
+[01:51:06] [Server thread/INFO]: <Agonesc> o traer el de fortune
+[01:51:27] [Server thread/INFO]: <Agonesc> vale?
+[01:51:29] [Server thread/INFO]: <Agonesc> ,aáma
+[01:51:33] [Server thread/INFO]: <Agonesc> mañana sigo
+[01:51:35] [Server thread/INFO]: <Agonesc> xau
+[01:51:36] [Server thread/INFO]: <Agonesc> cierro
+[01:51:37] [Server thread/INFO]: <Irx99> kai kai, pero mañana se hace
+[01:51:40] [Server thread/INFO]: <Irx99> chao chao zzz
+[01:51:45] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[01:51:45] [Server thread/INFO]: Agonesc left the game
+[01:52:22] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[01:52:22] [Server thread/INFO]: Irx99 left the game
+[01:53:22] [Server thread/INFO]: Stopping server
+[01:53:22] [Server thread/INFO]: Saving players
+[01:53:22] [Server thread/INFO]: Saving worlds
+[01:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
