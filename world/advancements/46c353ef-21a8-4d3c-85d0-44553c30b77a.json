@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-12-28 23:28:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_cut_copper_stairs": "2021-12-15 00:12:49 +0100"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-12-29 00:36:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-11 13:39:06 +0100"
@@ -236,6 +248,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-26 01:47:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-12-26 22:48:57 +0100"
     },
     "done": true
   },
@@ -320,6 +338,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-26 02:17:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-12-26 22:33:30 +0100"
     },
     "done": true
   },
@@ -665,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-12-26 22:33:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-11 12:56:05 +0100"
@@ -814,6 +844,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2021-12-11 12:29:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-12-28 23:28:12 +0100"
     },
     "done": true
   },
@@ -1165,6 +1201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-12-26 22:33:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-12-11 13:21:56 +0100"
@@ -1210,6 +1252,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-12-15 00:17:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-12-26 22:33:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-12-26 22:33:30 +0100"
     },
     "done": true
   },
@@ -1384,6 +1438,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2021-12-13 23:19:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-12-27 00:40:59 +0100"
     },
     "done": true
   },
@@ -1721,8 +1781,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-12-27 00:42:16 +0100",
       "minecraft:nether_wastes": "2021-12-12 13:01:46 +0100",
-      "minecraft:soul_sand_valley": "2021-12-26 02:11:30 +0100"
+      "minecraft:soul_sand_valley": "2021-12-26 02:11:30 +0100",
+      "minecraft:warped_forest": "2021-12-27 00:40:17 +0100"
     },
     "done": false
   },
@@ -1807,6 +1869,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2021-12-26 01:53:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-12-28 23:28:12 +0100"
     },
     "done": true
   },
@@ -2044,6 +2112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-12-27 00:53:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-12-11 12:25:22 +0100"
@@ -2175,6 +2249,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-12-11 12:29:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-12-27 00:40:59 +0100"
     },
     "done": true
   },
@@ -2351,6 +2431,12 @@
       "has_smooth_stone": "2021-12-24 00:32:32 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2021-12-28 23:27:46 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -2724,6 +2810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2021-12-28 23:27:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-12-12 14:12:26 +0100"
@@ -2823,6 +2915,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-12-21 22:53:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2021-12-28 23:27:35 +0100"
     },
     "done": true
   },
@@ -3003,6 +3101,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2021-12-12 13:47:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-12-26 22:33:30 +0100"
     },
     "done": true
   },
@@ -3423,6 +3527,18 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2021-12-11 13:32:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-12-27 00:22:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-12-28 23:27:46 +0100"
     },
     "done": true
   },

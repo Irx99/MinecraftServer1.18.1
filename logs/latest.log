@@ -1,135 +1,45 @@
-[00:21:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:21:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:21:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:21:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:21:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:21:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:21:12] [ServerMain/INFO]: Reloading ResourceManager: Default
-[00:21:13] [Worker-Main-28/INFO]: Loaded 7 recipes
-[00:21:13] [Worker-Main-28/INFO]: Loaded 1141 advancements
-[00:21:16] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[00:21:16] [Server thread/INFO]: Loading properties
-[00:21:16] [Server thread/INFO]: Default game type: SURVIVAL
-[00:21:16] [Server thread/INFO]: Generating keypair
-[00:21:16] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
-	at acj$1.run(SourceFile:101) [server-1.18.1.jar:?]
-[00:21:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:21:16] [Server thread/INFO]: Using default channel type
-[00:21:16] [Server thread/INFO]: Preparing level "world"
-[00:21:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:21:18] [Worker-Main-29/INFO]: Preparing spawn area: 0%
-[00:21:18] [Worker-Main-44/INFO]: Preparing spawn area: 0%
-[00:21:18] [Worker-Main-25/INFO]: Preparing spawn area: 0%
-[00:21:18] [Worker-Main-37/INFO]: Preparing spawn area: 0%
-[00:21:19] [Worker-Main-33/INFO]: Preparing spawn area: 0%
-[00:21:19] [Worker-Main-38/INFO]: Preparing spawn area: 0%
-[00:21:20] [Worker-Main-44/INFO]: Preparing spawn area: 4%
-[00:21:20] [Worker-Main-41/INFO]: Preparing spawn area: 4%
-[00:21:21] [Worker-Main-28/INFO]: Preparing spawn area: 16%
-[00:21:21] [Worker-Main-24/INFO]: Preparing spawn area: 49%
-[00:21:22] [Worker-Main-35/INFO]: Preparing spawn area: 91%
-[00:21:22] [Worker-Main-30/INFO]: Preparing spawn area: 91%
-[00:21:22] [Server thread/INFO]: Time elapsed: 5789 ms
-[00:21:22] [Server thread/INFO]: Done (5.925s)! For help, type "help"
-[00:25:55] [User Authenticator #1/INFO]: UUID of player Irx99 is 46c353ef-21a8-4d3c-85d0-44553c30b77a
-[00:25:55] [Server thread/INFO]: Irx99[/127.0.0.1:52370] logged in with entity id 48 at (-402.6897449611344, 78.5, -1906.6549481666987)
-[00:25:55] [Server thread/INFO]: Irx99 joined the game
-[00:26:28] [User Authenticator #2/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[00:26:28] [Server thread/INFO]: 5ambero[/91.117.160.234:26822] logged in with entity id 639 at (-512.7182091554807, 72.0, -1668.1179452307317)
-[00:26:28] [Server thread/INFO]: 5ambero joined the game
-[00:30:37] [Server thread/INFO]: 5ambero has made the advancement [Hot Stuff]
-[00:34:49] [Server thread/INFO]: Irx99 has made the advancement [Hot Stuff]
-[00:49:44] [User Authenticator #3/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
-[00:49:44] [Server thread/INFO]: Lalmeja[/88.19.1.28:54983] logged in with entity id 8706 at (-483.3139028327724, 64.0, -1772.8848301341927)
-[00:49:44] [Server thread/INFO]: Lalmeja joined the game
-[00:49:59] [Server thread/INFO]: <Lalmeja> sweet dreams are made of these
-[00:50:03] [Server thread/INFO]: <Lalmeja> who am i to disagree
-[00:51:37] [Server thread/INFO]: <Irx99> vente a discord e.e
-[00:51:59] [Server thread/INFO]: <Lalmeja> 5 min,estoy hablando del plan de fin de año con unos
-[00:52:05] [Server thread/INFO]: <Irx99> ok
-[00:52:07] [Server thread/INFO]: <Irx99> no duermas
-[00:52:13] [Server thread/INFO]: <Irx99> q tengo q cazar un zombi
-[00:52:27] [Server thread/INFO]: <Lalmeja> ^_^"
-[00:56:08] [Server thread/INFO]: <5ambero> ª
-[00:58:03] [User Authenticator #4/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
-[00:58:03] [Server thread/INFO]: Tactical_July[/90.173.206.174:12052] logged in with entity id 12048 at (-513.3133333664344, 71.9375, -1680.2548047354176)
-[00:58:03] [Server thread/INFO]: Tactical_July joined the game
-[01:00:24] [Server thread/INFO]: <Lalmeja> tenemos slime?
-[01:02:43] [Server thread/INFO]: 5ambero has made the advancement [What a Deal!]
-[01:06:28] [Server thread/INFO]: <Irx99> yasta funcionando esto
-[01:06:36] [Server thread/INFO]: <Lalmeja> ohtie
-[01:06:43] [Server thread/INFO]: <Irx99> 450 por hora
-[01:06:46] [Server thread/INFO]: <Irx99> en teoria
-[01:06:55] [Server thread/INFO]: <Lalmeja> tremendo
-[01:07:01] [Server thread/INFO]: <Lalmeja> voy a llevar el hierro a base
-[01:07:07] [Server thread/INFO]: <Irx99> se puede ampliar si hace falta
-[01:07:15] [Server thread/INFO]: <Lalmeja> cuando tengamos slime hago una buena granaj de kelp
-[01:07:35] [Server thread/INFO]: <Irx99> pero pa la de slime necesitamos vaciar un chunk
-[01:07:46] [Server thread/INFO]: <Irx99> y yo eso sin beacon no lo hago XD
-[01:07:50] [Server thread/INFO]: <Lalmeja> no digo granaj de slime,que eso es un coñazo
-[01:08:07] [Server thread/INFO]: <Lalmeja> los pistones pegajosos se pueden hacer con miel tambien,no?
-[01:08:11] [Server thread/INFO]: <Irx99> sip
-[01:08:23] [Server thread/INFO]: <Irx99> o no
-[01:08:26] [Server thread/INFO]: <Irx99> no estoy seguro
-[01:16:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-406, y=77, z=-1893} gh{x=-407, y=75, z=-1897}
-[01:16:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-406, y=77, z=-1893} gh{x=-407, y=75, z=-1897}
-[01:18:38] [Server thread/INFO]: <Tactical_July> NO BIENES AL DISCOR?
-[01:18:47] [Server thread/INFO]: <Lalmeja> EN CUANTO TERMINE
-[01:18:48] [Server thread/INFO]: <Tactical_July> V
-[01:18:50] [Server thread/INFO]: <Lalmeja> B
-[01:18:58] [Server thread/INFO]: <Lalmeja> TE SIGO
-[01:19:36] [Server thread/INFO]: <Tactical_July> CUAL ES TU OBJETIVO ACTUAL
-[01:19:54] [Server thread/INFO]: <Lalmeja> Ninguno,que no puedo jugar haciendo cosas complejas mientras hablo de otro tema
-[01:20:06] [Server thread/INFO]: <Tactical_July> OKI :D
-[01:20:07] [Server thread/INFO]: <Lalmeja> soy un hombre,no hacemos multitasking
-[01:30:13] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[01:30:13] [Server thread/INFO]: Tactical_July left the game
-[01:30:16] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-541, y=82, z=-1674} gh{x=-542, y=82, z=-1673}
-[01:40:08] [Server thread/INFO]: Lalmeja was shot by 5ambero
-[01:46:52] [Server thread/INFO]: Lalmeja tried to swim in lava
-[01:46:53] [Server thread/INFO]: Skipping update from removed player 'adj['Lalmeja'/8706, l='ServerLevel[world]', x=-63.79, y=31.00, z=-249.19, removed=KILLED]'
-[01:51:15] [Server thread/INFO]: Irx99 has made the advancement [Into Fire]
-[01:54:33] [Server thread/INFO]: Irx99 has made the advancement [Local Brewery]
-[02:13:31] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[02:13:31] [Server thread/INFO]: Lalmeja left the game
-[02:14:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-72, y=74, z=-133} gh{x=-66, y=78, z=-19}
-[02:17:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=30, y=22, z=-257} gh{x=30, y=21, z=-257}
-[02:18:37] [Server thread/INFO]: 5ambero has made the advancement [Those Were the Days]
-[02:20:08] [Server thread/INFO]: Irx99 has made the advancement [Hidden in the Depths]
-[02:23:23] [Server thread/INFO]: 5ambero has made the advancement [War Pigs]
-[02:36:01] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[02:36:01] [Server thread/INFO]: 5ambero left the game
-[02:36:18] [User Authenticator #5/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[02:36:18] [Server thread/INFO]: 5ambero[/91.117.160.234:7360] logged in with entity id 56159 at (-51.2291276640074, 77.0, 106.28988682628876)
-[02:36:18] [Server thread/INFO]: 5ambero joined the game
-[02:36:23] [User Authenticator #6/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[02:36:23] [Server thread/INFO]: 5ambero lost connection: You logged in from another location
-[02:36:23] [Server thread/INFO]: 5ambero left the game
-[02:36:23] [Server thread/INFO]: 5ambero[/91.117.160.234:7359] logged in with entity id 56381 at (-51.2291276640074, 77.0, 106.28988682628876)
-[02:36:23] [Server thread/INFO]: 5ambero joined the game
-[02:43:29] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[02:43:29] [Server thread/INFO]: 5ambero left the game
-[02:43:36] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[02:43:36] [Server thread/INFO]: Irx99 left the game
-[02:52:37] [Server thread/INFO]: Stopping server
-[02:52:37] [Server thread/INFO]: Saving players
-[02:52:37] [Server thread/INFO]: Saving worlds
-[02:52:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:52:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:52:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:46:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:46:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:46:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:46:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:46:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:46:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:46:02] [ServerMain/INFO]: Reloading ResourceManager: Default
+[14:46:03] [Worker-Main-24/INFO]: Loaded 7 recipes
+[14:46:04] [Worker-Main-24/INFO]: Loaded 1141 advancements
+[14:46:08] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[14:46:08] [Server thread/INFO]: Loading properties
+[14:46:08] [Server thread/INFO]: Default game type: SURVIVAL
+[14:46:08] [Server thread/INFO]: Generating keypair
+[14:46:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:46:08] [Server thread/INFO]: Using default channel type
+[14:46:08] [Server thread/INFO]: Preparing level "world"
+[14:46:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:46:10] [Worker-Main-34/INFO]: Preparing spawn area: 0%
+[14:46:10] [Worker-Main-34/INFO]: Preparing spawn area: 0%
+[14:46:10] [Worker-Main-34/INFO]: Preparing spawn area: 0%
+[14:46:10] [Worker-Main-28/INFO]: Preparing spawn area: 0%
+[14:46:11] [Worker-Main-34/INFO]: Preparing spawn area: 0%
+[14:46:11] [Worker-Main-39/INFO]: Preparing spawn area: 0%
+[14:46:12] [Worker-Main-40/INFO]: Preparing spawn area: 4%
+[14:46:12] [Worker-Main-28/INFO]: Preparing spawn area: 62%
+[14:46:14] [Worker-Main-29/INFO]: Preparing spawn area: 99%
+[14:46:14] [Worker-Main-25/INFO]: Preparing spawn area: 99%
+[14:46:14] [Server thread/INFO]: Time elapsed: 4992 ms
+[14:46:14] [Server thread/INFO]: Done (5.133s)! For help, type "help"
+[15:25:20] [User Authenticator #1/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[15:25:20] [Server thread/INFO]: Agonesc[/188.26.195.12:63840] logged in with entity id 48 at (-514.3583070205129, 71.9375, -1671.2202723917114)
+[15:25:20] [Server thread/INFO]: Agonesc joined the game
+[16:12:04] [Server thread/INFO]: Agonesc has made the advancement [What a Deal!]
+[16:44:42] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[16:44:42] [Server thread/INFO]: Agonesc left the game
+[17:04:52] [Server thread/INFO]: Stopping server
+[17:04:52] [Server thread/INFO]: Saving players
+[17:04:52] [Server thread/INFO]: Saving worlds
+[17:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
