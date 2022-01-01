@@ -1,35 +1,61 @@
-[00:34:51] [Server thread/INFO]: Lalmeja fell from a high place
-[00:34:52] [Server thread/INFO]: Skipping update from removed player 'adj['Lalmeja'/19997, l='ServerLevel[world]', x=-54.47, y=130.00, z=-178.74, removed=KILLED]'
-[00:45:21] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[00:45:21] [Server thread/INFO]: Lalmeja left the game
-[00:45:30] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[00:45:30] [Server thread/INFO]: Tactical_July left the game
-[00:45:37] [User Authenticator #4/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
-[00:45:37] [Server thread/INFO]: Tactical_July[/90.173.206.174:10472] logged in with entity id 67588 at (-516.6742421436547, 71.0, -1668.3721177799741)
-[00:45:37] [Server thread/INFO]: Tactical_July joined the game
-[00:45:46] [User Authenticator #5/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
-[00:45:46] [Server thread/INFO]: Lalmeja[/83.53.215.253:49382] logged in with entity id 68169 at (-51.303742887261194, 129.0, -231.5)
-[00:45:46] [Server thread/INFO]: Lalmeja joined the game
-[00:45:48] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[00:45:48] [Server thread/INFO]: Lalmeja left the game
-[01:12:48] [Server thread/INFO]: Tactical_July has made the advancement [Cover Me with Diamonds]
-[01:25:07] [User Authenticator #6/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
-[01:25:07] [Server thread/INFO]: Lalmeja[/83.53.215.253:55729] logged in with entity id 79176 at (-51.303742887261194, 129.0, -231.5)
-[01:25:07] [Server thread/INFO]: Lalmeja joined the game
-[01:55:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-461, y=73, z=-1801} gh{x=-459, y=66, z=-1801}
-[01:55:57] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[01:55:57] [Server thread/INFO]: Tactical_July left the game
-[01:59:19] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[01:59:19] [Server thread/INFO]: Lalmeja left the game
-[01:59:21] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[01:59:21] [Server thread/INFO]: Irx99 left the game
-[02:00:48] [Server thread/INFO]: Stopping server
-[02:00:48] [Server thread/INFO]: Saving players
-[02:00:48] [Server thread/INFO]: Saving worlds
-[02:00:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:00:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:00:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:00:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:00:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:00:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:00:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:56] [User Authenticator #26/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[00:04:56] [Server thread/INFO]: Tactical_July[/90.173.206.174:12525] logged in with entity id 156158 at (-497.5, 71.0, -1674.5)
+[00:04:56] [Server thread/INFO]: Tactical_July joined the game
+[00:11:38] [Server thread/INFO]: Named entity biy['Yegua de Mierda'/141822, l='ServerLevel[world]', x=-500.98, y=75.00, z=-1639.20] died: Yegua de Mierda was burnt to a crisp whilst fighting Lalmeja
+[00:18:13] [Server thread/INFO]: Lalmeja was shot by 5ambero
+[00:18:14] [Server thread/INFO]: Skipping update from removed player 'adj['Lalmeja'/142616, l='ServerLevel[world]', x=-411.64, y=62.07, z=-1742.45, removed=KILLED]'
+[00:18:14] [Server thread/INFO]: Skipping update from removed player 'adj['Lalmeja'/142616, l='ServerLevel[world]', x=-411.64, y=62.07, z=-1742.45, removed=KILLED]'
+[00:20:31] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:20:31] [Server thread/INFO]: Lalmeja left the game
+[00:32:37] [User Authenticator #27/INFO]: UUID of player lopezan11 is b228161b-211a-46f3-bb10-ee70f536944f
+[00:32:37] [Server thread/INFO]: lopezan11[/88.15.32.214:65319] logged in with entity id 164052 at (-516.6259175335126, 72.0, -1677.888536347163)
+[00:32:37] [Server thread/INFO]: lopezan11 joined the game
+[00:35:55] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:35:55] [Server thread/INFO]: Tactical_July left the game
+[00:37:53] [User Authenticator #28/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[00:37:53] [Server thread/INFO]: Tactical_July[/90.173.206.174:13062] logged in with entity id 165856 at (-514.5697286483497, 71.9375, -1676.6432742561674)
+[00:37:53] [Server thread/INFO]: Tactical_July joined the game
+[00:40:32] [Server thread/INFO]: lopezan11 has made the advancement [We Need to Go Deeper]
+[00:46:52] [User Authenticator #29/INFO]: UUID of player Irx99 is 46c353ef-21a8-4d3c-85d0-44553c30b77a
+[00:46:52] [Server thread/INFO]: Irx99[/127.0.0.1:51951] logged in with entity id 170124 at (-534.79922619338, 81.0, -1667.8826357385572)
+[00:46:52] [Server thread/INFO]: Irx99 joined the game
+[00:47:57] [Server thread/INFO]: lopezan11 has made the advancement [What a Deal!]
+[00:51:56] [Server thread/INFO]: lopezan11 has made the advancement [Cover Me with Diamonds]
+[00:53:35] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:53:35] [Server thread/INFO]: Tactical_July left the game
+[01:47:45] [Server thread/INFO]: <5ambero> mapa oceano x: 1300
+[01:47:51] [Server thread/INFO]: <5ambero> 1330
+[01:57:30] [Server thread/INFO]: lopezan11 has made the advancement [Take Aim]
+[01:59:12] [User Authenticator #30/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[01:59:12] [Server thread/INFO]: Tactical_July[/90.173.206.174:12167] logged in with entity id 249333 at (-412.23925695045074, 72.0, -1821.5288702134346)
+[01:59:12] [Server thread/INFO]: Tactical_July joined the game
+[01:59:41] [Server thread/INFO]: <Tactical_July> a
+[01:59:44] [Server thread/INFO]: <lopezan11> e
+[01:59:53] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[01:59:53] [Server thread/INFO]: 5ambero left the game
+[02:00:36] [User Authenticator #31/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[02:00:36] [Server thread/INFO]: 5ambero[/91.117.160.234:2360] logged in with entity id 250506 at (2788.73041686702, 80.0, -7150.137499988079)
+[02:00:36] [Server thread/INFO]: 5ambero joined the game
+[02:05:15] [Server thread/INFO]: Irx99 has made the advancement [Best Friends Forever]
+[02:16:31] [Server thread/INFO]: <5ambero> mansion 2780 / -7123
+[02:18:20] [Server thread/INFO]: [Irx99: Teleported 5ambero to Irx99]
+[02:18:45] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[02:18:45] [Server thread/INFO]: Irx99 left the game
+[02:19:45] [Server thread/INFO]: [Server] venga q tengo sueño zzzz
+[02:19:55] [Server thread/INFO]: <5ambero> haha vuendato
+[02:19:58] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[02:19:58] [Server thread/INFO]: Tactical_July left the game
+[02:20:00] [Server thread/INFO]: lopezan11 lost connection: Disconnected
+[02:20:00] [Server thread/INFO]: lopezan11 left the game
+[02:20:05] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[02:20:05] [Server thread/INFO]: 5ambero left the game
+[02:20:09] [Server thread/INFO]: Stopping server
+[02:20:09] [Server thread/INFO]: Saving players
+[02:20:09] [Server thread/INFO]: Saving worlds
+[02:20:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:20:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:20:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
