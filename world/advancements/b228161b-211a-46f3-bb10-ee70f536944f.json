@@ -926,6 +926,7 @@
       "minecraft:spider": "2021-12-12 23:41:20 +0100",
       "minecraft:creeper": "2021-12-14 00:01:22 +0100",
       "minecraft:zombified_piglin": "2022-01-01 01:57:39 +0100",
+      "minecraft:enderman": "2022-01-07 17:48:20 +0100",
       "minecraft:zombie": "2021-12-12 23:11:14 +0100",
       "minecraft:zombie_villager": "2021-12-14 00:01:44 +0100"
     },
@@ -946,6 +947,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-12-12 23:18:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-01-07 15:57:35 +0100"
     },
     "done": true
   },
@@ -1315,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-01-07 17:31:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2021-12-12 22:57:29 +0100"
@@ -1360,6 +1373,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-12-12 23:41:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2022-01-07 15:54:26 +0100"
     },
     "done": true
   },
@@ -1957,6 +1976,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-12-12 23:15:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2022-01-07 15:54:26 +0100"
     },
     "done": true
   },

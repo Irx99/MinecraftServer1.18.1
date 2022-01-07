@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-01-07 16:43:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-24 00:51:09 +0100"
@@ -571,10 +577,12 @@
       "minecraft:spider": "2021-12-31 18:59:01 +0100",
       "minecraft:creeper": "2022-01-01 22:07:29 +0100",
       "minecraft:slime": "2022-01-04 23:40:35 +0100",
+      "minecraft:phantom": "2022-01-07 16:04:05 +0100",
       "minecraft:zombified_piglin": "2021-12-31 19:42:05 +0100",
       "minecraft:cave_spider": "2021-12-31 19:08:41 +0100",
       "minecraft:piglin": "2021-12-31 23:33:29 +0100",
       "minecraft:enderman": "2021-12-31 19:36:06 +0100",
+      "minecraft:silverfish": "2022-01-07 09:48:24 +0100",
       "minecraft:zombie": "2021-12-15 23:35:43 +0100"
     },
     "done": false
@@ -972,6 +980,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-12-13 23:05:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-01-07 16:43:38 +0100"
     },
     "done": true
   },
@@ -1609,6 +1623,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2021-12-14 00:21:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2022-01-07 16:50:06 +0100"
     },
     "done": true
   },
@@ -2410,6 +2430,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2021-12-15 00:25:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-01-07 16:43:38 +0100"
     },
     "done": true
   },

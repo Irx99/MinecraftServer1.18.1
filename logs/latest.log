@@ -1,173 +1,451 @@
-[00:00:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-293, y=9, z=-214} gh{x=-294, y=9, z=-217}
-[00:00:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-293, y=9, z=-214} gh{x=-294, y=9, z=-217}
-[00:00:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-293, y=9, z=-214} gh{x=-294, y=9, z=-217}
-[00:01:22] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=8, z=-201} gh{x=-273, y=8, z=-202}
-[00:01:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=8, z=-201} gh{x=-273, y=8, z=-202}
-[00:01:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=8, z=-201} gh{x=-273, y=8, z=-202}
-[00:01:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=8, z=-201} gh{x=-273, y=8, z=-202}
-[00:01:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=8, z=-201} gh{x=-273, y=8, z=-202}
-[00:01:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=8, z=-201} gh{x=-273, y=8, z=-202}
-[00:02:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-297, y=7, z=-198} gh{x=-297, y=6, z=-197}
-[00:02:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-297, y=7, z=-198} gh{x=-297, y=6, z=-197}
-[00:02:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-297, y=7, z=-198} gh{x=-297, y=6, z=-197}
-[00:02:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-297, y=7, z=-198} gh{x=-297, y=6, z=-197}
-[00:02:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=7, z=-206} gh{x=-285, y=7, z=-205}
-[00:02:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=7, z=-206} gh{x=-285, y=7, z=-205}
-[00:03:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=7, z=-206} gh{x=-285, y=7, z=-205}
-[00:03:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=7, z=-206} gh{x=-285, y=7, z=-205}
-[00:03:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=7, z=-206} gh{x=-285, y=7, z=-205}
-[00:03:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=7, z=-206} gh{x=-285, y=7, z=-205}
-[00:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=7, z=-205} gh{x=-281, y=6, z=-204}
-[00:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=7, z=-205} gh{x=-281, y=6, z=-204}
-[00:04:06] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=5, z=-224} gh{x=-303, y=5, z=-224}
-[00:04:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=5, z=-204} gh{x=-285, y=3, z=-204}
-[00:04:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=5, z=-206} gh{x=-284, y=4, z=-206}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-298, y=4, z=-203} gh{x=-298, y=3, z=-204}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-298, y=4, z=-203} gh{x=-298, y=3, z=-204}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-298, y=4, z=-203} gh{x=-298, y=3, z=-204}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-298, y=4, z=-203} gh{x=-298, y=3, z=-204}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=2, z=-217} gh{x=-274, y=2, z=-217}
-[00:07:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=1, z=-221} gh{x=-274, y=0, z=-222}
-[00:07:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=3, z=-218} gh{x=-276, y=3, z=-218}
-[00:08:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-273, y=1, z=-196} gh{x=-273, y=2, z=-195}
-[00:08:14] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=0, z=-197} gh{x=-279, y=-1, z=-196}
-[00:09:08] [Server thread/INFO]: <Lalmeja> encontre diamante
-[00:09:10] [Server thread/INFO]: <Lalmeja> gg
-[00:09:18] [Server thread/INFO]: <5ambero> yo lo encontre primero puto pringao
-[00:09:24] [Server thread/INFO]: <Lalmeja> quien?
-[00:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-292, y=0, z=-212}
-[00:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-292, y=0, z=-212}
-[00:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-292, y=0, z=-212}
-[00:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-292, y=0, z=-212}
-[00:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-292, y=0, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-1, z=-211} gh{x=-291, y=-2, z=-212}
-[00:11:19] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-290, y=-2, z=-215} gh{x=-292, y=-3, z=-214}
-[00:11:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-3, z=-214} gh{x=-281, y=-3, z=-213}
-[00:11:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-7, z=-216} gh{x=-284, y=-6, z=-215}
-[00:11:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-7, z=-216} gh{x=-284, y=-6, z=-215}
-[00:11:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-7, z=-216} gh{x=-284, y=-6, z=-215}
-[00:11:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-7, z=-216} gh{x=-284, y=-6, z=-215}
-[00:11:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-296, y=0, z=-205} gh{x=-295, y=0, z=-203}
-[00:11:53] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=1, z=-201} gh{x=-292, y=1, z=-201}
-[00:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-5, z=-215} gh{x=-281, y=-6, z=-215}
-[00:11:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-5, z=-215} gh{x=-281, y=-6, z=-215}
-[00:12:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=0, z=-196} gh{x=-286, y=0, z=-196}
-[00:12:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-1, z=-213} gh{x=-295, y=-3, z=-213}
-[00:12:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-3, z=-196} gh{x=-284, y=-2, z=-195}
-[00:12:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-3, z=-196} gh{x=-284, y=-2, z=-195}
-[00:12:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-3, z=-196} gh{x=-284, y=-2, z=-195}
-[00:12:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-3, z=-196} gh{x=-284, y=-2, z=-195}
-[00:12:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-3, z=-196} gh{x=-284, y=-2, z=-195}
-[00:12:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-3, z=-196} gh{x=-284, y=-2, z=-195}
-[00:12:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-2, z=-194} gh{x=-287, y=-2, z=-195}
-[00:13:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-278, y=-2, z=-201} gh{x=-278, y=-2, z=-202}
-[00:13:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-278, y=-2, z=-201} gh{x=-278, y=-2, z=-202}
-[00:13:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-274, y=0, z=-200} gh{x=-274, y=-1, z=-200}
-[00:14:13] [Server thread/INFO]: <Tactical_July> me vas a matar en cualquier momento
-[00:14:20] [Server thread/INFO]: <Lalmeja> yo?
-[00:15:49] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-300, y=-11, z=-200} gh{x=-300, y=-10, z=-201}
-[00:15:49] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-301, y=-10, z=-201} gh{x=-300, y=-11, z=-201}
-[00:15:51] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-7, z=-199} gh{x=-302, y=-8, z=-198}
-[00:15:51] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-7, z=-199} gh{x=-302, y=-8, z=-198}
-[00:15:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-303, y=-10, z=-198} gh{x=-302, y=-11, z=-198}
-[00:17:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-302, y=-11, z=-214} gh{x=-303, y=-10, z=-215}
-[00:17:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-302, y=-11, z=-214} gh{x=-303, y=-10, z=-215}
-[00:17:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-302, y=-11, z=-214} gh{x=-303, y=-10, z=-215}
-[00:17:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-302, y=-11, z=-214} gh{x=-303, y=-10, z=-215}
-[00:17:50] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-300, y=-9, z=-212} gh{x=-301, y=-10, z=-213}
-[00:17:50] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-300, y=-9, z=-212} gh{x=-301, y=-10, z=-213}
-[00:18:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-301, y=-14, z=-213} gh{x=-301, y=-14, z=-214}
-[00:18:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-301, y=-14, z=-213} gh{x=-301, y=-14, z=-214}
-[00:18:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-301, y=-14, z=-213} gh{x=-301, y=-14, z=-214}
-[00:19:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-14, z=-208} gh{x=-287, y=-15, z=-208}
-[00:19:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-14, z=-208} gh{x=-287, y=-15, z=-208}
-[00:19:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-14, z=-208} gh{x=-287, y=-15, z=-208}
-[00:19:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-14, z=-208} gh{x=-287, y=-15, z=-208}
-[00:19:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-14, z=-208} gh{x=-287, y=-15, z=-208}
-[00:19:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-15, z=-206} gh{x=-282, y=-15, z=-207}
-[00:19:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-15, z=-206} gh{x=-282, y=-15, z=-207}
-[00:20:04] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-12, z=-215} gh{x=-295, y=-9, z=-215}
-[00:20:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-12, z=-215} gh{x=-295, y=-9, z=-215}
-[00:20:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-12, z=-215} gh{x=-295, y=-9, z=-215}
-[00:20:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-12, z=-215} gh{x=-295, y=-9, z=-215}
-[00:20:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-293, y=-10, z=-222} gh{x=-293, y=-10, z=-221}
-[00:20:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-293, y=-10, z=-222} gh{x=-293, y=-10, z=-221}
-[00:24:12] [Server thread/INFO]: <Lalmeja> tramposa
-[00:24:21] [Server thread/INFO]: <5ambero> no hables que lagea
-[00:25:15] [Server thread/INFO]: 5ambero lost connection: Timed out
-[00:25:15] [Server thread/INFO]: 5ambero left the game
-[00:25:15] [Server thread/WARN]: handleDisconnection() called twice
-[00:25:17] [Server thread/INFO]: lopezan11 lost connection: Disconnected
-[00:25:17] [Server thread/INFO]: lopezan11 left the game
-[00:25:19] [Server thread/INFO]: Tactical_July lost connection: Timed out
-[00:25:19] [Server thread/INFO]: Tactical_July left the game
-[00:25:21] [Server thread/INFO]: Lalmeja lost connection: Timed out
-[00:25:21] [Server thread/INFO]: Lalmeja left the game
-[00:25:36] [User Authenticator #7/INFO]: UUID of player lopezan11 is b228161b-211a-46f3-bb10-ee70f536944f
-[00:25:36] [Server thread/INFO]: lopezan11[/88.15.32.214:52191] logged in with entity id 118409 at (-303.8414981756408, -25.0, -226.66697342759974)
-[00:25:36] [Server thread/INFO]: lopezan11 joined the game
-[00:25:51] [User Authenticator #8/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[00:25:51] [Server thread/INFO]: 5ambero[/91.117.160.234:1155] logged in with entity id 118518 at (-283.4784856313446, -6.0, -209.30000001192093)
-[00:25:51] [Server thread/INFO]: 5ambero joined the game
-[00:26:13] [User Authenticator #9/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
-[00:26:13] [Server thread/INFO]: Lalmeja[/83.53.215.253:50264] logged in with entity id 118628 at (-296.5555195642084, -47.0, -196.9328719167912)
-[00:26:13] [Server thread/INFO]: Lalmeja joined the game
-[00:26:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@519c42ac[id=<null>,name=Tactical_July,properties={},legacy=false] (/90.173.206.174:12274) lost connection: Disconnected
-[00:27:42] [Server thread/INFO]: <Irx99> almeja hay obsidiana por ahi?
-[00:27:47] [User Authenticator #10/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
-[00:27:47] [Server thread/INFO]: Tactical_July[/90.173.206.174:12353] logged in with entity id 119419 at (-300.5, -11.0, -192.5)
-[00:27:47] [Server thread/INFO]: Tactical_July joined the game
-[00:27:50] [Server thread/INFO]: <Lalmeja> aun no que yo haya visto
-[00:28:40] [Server thread/INFO]: <Irx99> almeja nos volvemos
-[00:28:47] [Server thread/INFO]: <Lalmeja> a sobar?
-[00:28:50] [Server thread/INFO]: <Irx99> sip
-[00:32:21] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[00:32:21] [Server thread/INFO]: Lalmeja left the game
-[00:33:16] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[00:33:16] [Server thread/INFO]: Tactical_July left the game
-[00:34:06] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:34:06] [Server thread/INFO]: Irx99 left the game
-[00:34:19] [Server thread/INFO]: lopezan11 lost connection: Disconnected
-[00:34:19] [Server thread/INFO]: lopezan11 left the game
-[00:35:23] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:35:23] [Server thread/INFO]: 5ambero left the game
-[00:35:26] [Server thread/INFO]: Stopping server
-[00:35:26] [Server thread/INFO]: Saving players
-[00:35:26] [Server thread/INFO]: Saving worlds
-[00:35:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:35:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:35:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:35:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:35:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:35:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:35:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:03:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:03:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:03:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:03:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:03:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:03:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:03:35] [ServerMain/INFO]: Reloading ResourceManager: Default
+[09:03:36] [Worker-Main-26/INFO]: Loaded 7 recipes
+[09:03:37] [Worker-Main-26/INFO]: Loaded 1141 advancements
+[09:03:40] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[09:03:40] [Server thread/INFO]: Loading properties
+[09:03:40] [Server thread/INFO]: Default game type: SURVIVAL
+[09:03:40] [Server thread/INFO]: Generating keypair
+[09:03:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:03:41] [Server thread/INFO]: Using default channel type
+[09:03:41] [Server thread/INFO]: Preparing level "world"
+[09:03:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:03:42] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[09:03:42] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[09:03:42] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[09:03:43] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[09:03:43] [Worker-Main-32/INFO]: Preparing spawn area: 0%
+[09:03:44] [Worker-Main-25/INFO]: Preparing spawn area: 4%
+[09:03:44] [Worker-Main-46/INFO]: Preparing spawn area: 17%
+[09:03:45] [Worker-Main-29/INFO]: Preparing spawn area: 90%
+[09:03:45] [Server thread/INFO]: Time elapsed: 3692 ms
+[09:03:45] [Server thread/INFO]: Done (3.836s)! For help, type "help"
+[09:04:59] [User Authenticator #1/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[09:04:59] [Server thread/INFO]: Tactical_July[/90.173.206.174:11013] logged in with entity id 45 at (-568.4577737482789, 77.0, -1669.640574162932)
+[09:05:00] [Server thread/INFO]: Tactical_July joined the game
+[09:27:27] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=77, z=-193} gh{x=-277, y=78, z=-193}
+[09:27:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=76, z=-193} gh{x=-277, y=74, z=-193}
+[09:27:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=71, z=-193} gh{x=-277, y=72, z=-193}
+[09:27:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=-4, z=-193} gh{x=-277, y=-3, z=-193}
+[09:27:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=-5, z=-193} gh{x=-277, y=-4, z=-193}
+[10:39:30] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[10:39:30] [Server thread/INFO]: Tactical_July left the game
+[11:13:34] [User Authenticator #2/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[11:13:34] [Server thread/INFO]: Tactical_July[/90.173.206.174:11175] logged in with entity id 23965 at (-273.2578983129794, -14.0, -219.47318178477977)
+[11:13:34] [Server thread/INFO]: Tactical_July joined the game
+[12:23:47] [Server thread/INFO]: Tactical_July fell from a high place
+[12:23:48] [Server thread/INFO]: Skipping update from removed player 'adj['Tactical_July'/23965, l='ServerLevel[world]', x=-297.70, y=-18.00, z=-222.49, removed=KILLED]'
+[12:23:53] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=98, z=-12}
+[12:23:53] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=97, z=-11}
+[12:23:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=97, z=-11}
+[12:23:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=98, z=-12}
+[12:23:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=98, z=-12}
+[12:23:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=1, y=98, z=-12}
+[12:23:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=98, z=-12}
+[12:24:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=97, z=-11}
+[12:24:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=98, z=-10}
+[12:24:05] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=99, z=-10}
+[12:24:06] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=98, z=-10}
+[12:24:14] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[12:24:14] [Server thread/INFO]: Tactical_July left the game
+[12:24:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@780db0e1[id=<null>,name=Tactical_July,properties={},legacy=false] (/90.173.206.174:12526) lost connection: Disconnected
+[12:25:02] [User Authenticator #3/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[12:25:03] [Server thread/INFO]: Tactical_July[/90.173.206.174:12598] logged in with entity id 44537 at (3.894668681626611, 98.0, -10.51517228231876)
+[12:25:03] [Server thread/INFO]: Tactical_July joined the game
+[12:25:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=97, z=-11}
+[12:25:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=0, y=98, z=-12}
+[12:25:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=98, z=-12}
+[12:26:52] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=98, z=-12}
+[12:26:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=98, z=-11}
+[12:26:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=97, z=-11}
+[12:27:00] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[12:27:00] [Server thread/INFO]: Tactical_July left the game
+[12:28:12] [User Authenticator #4/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[12:28:12] [Server thread/INFO]: Tactical_July[/90.173.206.174:12750] logged in with entity id 45022 at (3.300000011920929, 98.0, -10.639805606169581)
+[12:28:12] [Server thread/INFO]: Tactical_July joined the game
+[12:28:19] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=98, z=-12}
+[12:28:35] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=98, z=-10}
+[12:28:35] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=98, z=-10}
+[12:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=98, z=-10}
+[12:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=5, y=99, z=-9}
+[12:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=5, y=98, z=-10}
+[12:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=6, y=99, z=-10}
+[12:28:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=99, z=-9}
+[12:28:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=98, z=-10}
+[12:28:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=2, y=99, z=-9}
+[12:28:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=0, y=98, z=-5}
+[12:28:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=0, y=98, z=-6}
+[12:28:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-1, y=98, z=-5}
+[12:28:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-1, y=98, z=-4}
+[12:28:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-1, y=98, z=-3}
+[12:28:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-1, y=98, z=-4}
+[12:28:57] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-7, y=97, z=-3}
+[12:28:57] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-7, y=98, z=-3}
+[12:28:57] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-8, y=98, z=-3}
+[12:28:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-7, y=98, z=-3}
+[12:28:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-8, y=98, z=-3}
+[12:28:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-9, y=97, z=-3}
+[12:28:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-10, y=97, z=-3}
+[12:28:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-9, y=97, z=-3}
+[12:28:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-8, y=98, z=-3}
+[12:28:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-9, y=97, z=-3}
+[12:28:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-10, y=97, z=-3}
+[12:29:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-13, y=97, z=-1}
+[12:29:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-14, y=97, z=0}
+[12:29:03] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-15, y=97, z=-1}
+[12:29:03] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-16, y=96, z=0}
+[12:32:12] [Server thread/INFO]: Tactical_July lost connection: Timed out
+[12:32:12] [Server thread/INFO]: Tactical_July left the game
+[12:32:12] [Server thread/WARN]: handleDisconnection() called twice
+[14:11:40] [User Authenticator #5/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[14:11:41] [Server thread/INFO]: Tactical_July[/90.173.206.174:12396] logged in with entity id 46153 at (-26.103675051827324, 98.0, 4.763952837544538)
+[14:11:41] [Server thread/INFO]: Tactical_July joined the game
+[14:19:10] [Server thread/INFO]: Tactical_July was blown up by Creeper
+[14:19:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=13, y=100, z=-9}
+[14:19:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=100, z=-8}
+[14:19:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=100, z=-7}
+[14:19:38] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=7, y=99, z=-10}
+[14:19:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=6, y=99, z=-10}
+[14:19:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=7, y=99, z=-10}
+[14:19:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=6, y=99, z=-10}
+[14:19:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=7, y=99, z=-10}
+[14:19:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=6, y=99, z=-10}
+[14:19:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=98, z=-12}
+[14:20:55] [Server thread/INFO]: Tactical_July froze to death
+[14:25:40] [Server thread/INFO]: Tactical_July fell from a high place
+[14:25:41] [Server thread/INFO]: Skipping update from removed player 'adj['Tactical_July'/46153, l='ServerLevel[world]', x=-351.52, y=37.00, z=7.17, removed=KILLED]'
+[14:25:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=7, y=98, z=0}
+[14:26:06] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[14:26:06] [Server thread/INFO]: Tactical_July left the game
+[14:46:09] [User Authenticator #6/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[14:46:09] [Server thread/INFO]: Tactical_July[/90.173.206.174:13084] logged in with entity id 51780 at (7.339301369315828, 96.0, -0.6552250384634949)
+[14:46:09] [Server thread/INFO]: Tactical_July joined the game
+[14:46:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-15}
+[14:46:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-14}
+[14:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-15}
+[14:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=99, z=-16}
+[14:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-16}
+[14:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=3, y=99, z=-16}
+[14:46:35] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-16}
+[14:46:36] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=98, z=-16}
+[14:46:36] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-16}
+[14:46:36] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=98, z=-16}
+[14:46:36] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-16}
+[14:46:36] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=98, z=-16}
+[14:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-15}
+[14:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=98, z=-15}
+[14:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-15}
+[14:46:47] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[14:46:47] [Server thread/INFO]: Tactical_July left the game
+[14:47:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@3232eb3c[id=<null>,name=Tactical_July,properties={},legacy=false] (/90.173.206.174:13097) lost connection: Disconnected
+[14:47:43] [User Authenticator #7/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[14:47:43] [Server thread/INFO]: Tactical_July[/90.173.206.174:13167] logged in with entity id 52141 at (4.661028522472879, 97.0, -14.870211365204549)
+[14:47:43] [Server thread/INFO]: Tactical_July joined the game
+[14:47:49] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-15}
+[14:47:50] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=98, z=-15}
+[14:47:50] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=4, y=99, z=-15}
+[14:48:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=1, y=98, z=-13}
+[14:48:03] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=2, y=98, z=-13}
+[14:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=7, y=100, z=-8}
+[14:48:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=8, y=100, z=-8}
+[14:48:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=8, y=99, z=-9}
+[14:48:18] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=8, y=100, z=-8}
+[14:48:20] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=7, y=100, z=-9}
+[14:48:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=13, y=100, z=-11}
+[14:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=12, y=99, z=-11}
+[14:48:33] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=11, y=99, z=-11}
+[14:48:33] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=4, y=98, z=-18} gh{x=11, y=99, z=-12}
+[14:48:49] [Server thread/INFO]: Tactical_July froze to death
+[14:55:36] [User Authenticator #8/INFO]: UUID of player Irx99 is 46c353ef-21a8-4d3c-85d0-44553c30b77a
+[14:55:36] [Server thread/INFO]: Irx99[/127.0.0.1:60303] logged in with entity id 54674 at (-559.9832197533087, 77.0, -1672.0560944697634)
+[14:55:36] [Server thread/INFO]: Irx99 joined the game
+[15:05:21] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[15:05:21] [Server thread/INFO]: Irx99 left the game
+[15:15:22] [User Authenticator #9/INFO]: UUID of player Irx99 is 46c353ef-21a8-4d3c-85d0-44553c30b77a
+[15:15:22] [Server thread/INFO]: Irx99[/127.0.0.1:60916] logged in with entity id 68540 at (-290.7065931104185, -19.0, -199.13054114416812)
+[15:15:22] [Server thread/INFO]: Irx99 joined the game
+[15:25:40] [User Authenticator #10/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[15:25:40] [Server thread/INFO]: Lalmeja[/83.53.215.253:57345] logged in with entity id 77187 at (-516.697121038074, 71.9375, -1672.3573086965894)
+[15:25:40] [Server thread/INFO]: Lalmeja joined the game
+[15:48:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=-21, z=-230} gh{x=-284, y=-22, z=-230}
+[15:48:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=-21, z=-230} gh{x=-284, y=-22, z=-230}
+[15:48:59] [User Authenticator #11/INFO]: UUID of player lopezan11 is b228161b-211a-46f3-bb10-ee70f536944f
+[15:49:00] [Server thread/INFO]: lopezan11[/88.15.32.214:61291] logged in with entity id 106443 at (-522.4760608662871, 75.0, -1674.301878736342)
+[15:49:00] [Server thread/INFO]: lopezan11 joined the game
+[15:51:18] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-23, z=-207} gh{x=-297, y=-21, z=-205}
+[15:51:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-298, y=-23, z=-203} gh{x=-299, y=-24, z=-203}
+[15:52:11] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[15:52:11] [Server thread/INFO]: Tactical_July left the game
+[15:52:12] [Server thread/INFO]: Lalmeja lost connection: Timed out
+[15:52:12] [Server thread/INFO]: Lalmeja left the game
+[15:52:14] [Server thread/INFO]: lopezan11 lost connection: Disconnected
+[15:52:14] [Server thread/INFO]: lopezan11 left the game
+[15:52:32] [User Authenticator #12/INFO]: UUID of player lopezan11 is b228161b-211a-46f3-bb10-ee70f536944f
+[15:52:32] [Server thread/INFO]: lopezan11[/88.15.32.214:61302] logged in with entity id 112734 at (-51.0758952959722, 129.0, -231.5)
+[15:52:32] [Server thread/INFO]: lopezan11 joined the game
+[15:52:33] [User Authenticator #13/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[15:52:33] [Server thread/INFO]: Tactical_July[/90.173.206.174:11030] logged in with entity id 113384 at (-54.075890407524916, 243.0, -179.23233505150455)
+[15:52:33] [Server thread/INFO]: Tactical_July joined the game
+[15:52:43] [User Authenticator #14/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[15:52:44] [Server thread/INFO]: Lalmeja[/83.53.215.253:57675] logged in with entity id 113537 at (-296.4936806432713, -20.464159374955443, -196.5658589119532)
+[15:52:44] [Server thread/INFO]: Lalmeja joined the game
+[15:57:35] [Server thread/INFO]: lopezan11 has made the advancement [Enchanter]
+[16:03:11] [Server thread/INFO]: lopezan11 fell from a high place
+[16:03:12] [Server thread/INFO]: Skipping update from removed player 'adj['lopezan11'/112734, l='ServerLevel[world]', x=-274.63, y=-33.00, z=-192.30, removed=KILLED]'
+[16:07:41] [Server thread/INFO]: Tactical_July fell from a high place
+[16:07:42] [Server thread/INFO]: Skipping update from removed player 'adj['Tactical_July'/113384, l='ServerLevel[world]', x=-303.71, y=-23.00, z=-223.48, removed=KILLED]'
+[16:11:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-286, y=-24, z=-220} gh{x=-287, y=-27, z=-220}
+[16:11:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-27, z=-214} gh{x=-287, y=-27, z=-215}
+[16:11:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-27, z=-214} gh{x=-287, y=-27, z=-215}
+[16:11:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-286, y=-28, z=-215} gh{x=-285, y=-28, z=-215}
+[16:12:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-29, z=-225} gh{x=-291, y=-30, z=-225}
+[16:12:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-292, y=-30, z=-225} gh{x=-291, y=-30, z=-225}
+[16:13:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-33, z=-223} gh{x=-294, y=-34, z=-223}
+[16:13:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-33, z=-223} gh{x=-294, y=-34, z=-223}
+[16:13:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-33, z=-223} gh{x=-294, y=-34, z=-223}
+[16:13:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-33, z=-223} gh{x=-294, y=-34, z=-223}
+[16:13:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-33, z=-223} gh{x=-294, y=-34, z=-223}
+[16:13:22] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=-29, z=-223} gh{x=-292, y=-29, z=-224}
+[16:32:08] [Server thread/INFO]: <Irx99> -41 -62
+[16:32:11] [Server thread/INFO]: <Lalmeja> -41 61 -62
+[16:32:32] [Server thread/INFO]: <Lalmeja> -41 61 -41
+[16:33:05] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[16:33:05] [Server thread/INFO]: Lalmeja left the game
+[16:36:27] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-24, y=97, z=-23} gh{x=-45, y=67, z=-43}
+[16:50:13] [User Authenticator #15/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[16:50:13] [Server thread/INFO]: Lalmeja[/83.53.215.253:65002] logged in with entity id 157363 at (-348.28934476765755, 141.0, -316.230119894934)
+[16:50:13] [Server thread/INFO]: Lalmeja joined the game
+[16:51:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-285, y=91, z=-191}
+[17:00:20] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-342, y=-15, z=-240} gh{x=-342, y=-17, z=-239}
+[17:04:05] [Server thread/INFO]: lopezan11 lost connection: Disconnected
+[17:04:05] [Server thread/INFO]: lopezan11 left the game
+[17:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-275, y=-30, z=-188} gh{x=-276, y=-30, z=-188}
+[17:04:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-28, z=-188} gh{x=-279, y=-30, z=-188}
+[17:04:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-28, z=-188} gh{x=-279, y=-30, z=-188}
+[17:04:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-28, z=-188} gh{x=-279, y=-30, z=-188}
+[17:04:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-28, z=-188} gh{x=-279, y=-30, z=-188}
+[17:09:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=-26, z=-184} gh{x=-277, y=-27, z=-185}
+[17:09:16] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=-33, z=-187} gh{x=-277, y=-34, z=-188}
+[17:09:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-21, z=-191} gh{x=-281, y=-22, z=-190}
+[17:09:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-21, z=-191} gh{x=-281, y=-22, z=-189}
+[17:09:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-21, z=-191} gh{x=-281, y=-22, z=-189}
+[17:09:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-21, z=-191} gh{x=-281, y=-22, z=-189}
+[17:09:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-21, z=-191} gh{x=-281, y=-22, z=-189}
+[17:09:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-21, z=-191} gh{x=-281, y=-22, z=-189}
+[17:10:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-22, z=-185} gh{x=-281, y=-23, z=-186}
+[17:10:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-22, z=-185} gh{x=-281, y=-23, z=-186}
+[17:15:06] [User Authenticator #16/INFO]: UUID of player lopezan11 is b228161b-211a-46f3-bb10-ee70f536944f
+[17:15:06] [Server thread/INFO]: lopezan11[/83.53.215.169:61550] logged in with entity id 166144 at (-308.071483034714, -34.0, -218.88143766809497)
+[17:15:06] [Server thread/INFO]: lopezan11 joined the game
+[17:15:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-289, y=-32, z=-224} gh{x=-289, y=-33, z=-225}
+[17:17:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-289, y=-38, z=-224} gh{x=-289, y=-37, z=-224}
+[17:18:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-32, z=-223} gh{x=-281, y=-33, z=-223}
+[17:18:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-32, z=-223} gh{x=-281, y=-33, z=-223}
+[17:18:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-32, z=-223} gh{x=-281, y=-33, z=-223}
+[17:18:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-42, z=-220} gh{x=-287, y=-41, z=-219}
+[17:18:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-42, z=-220} gh{x=-287, y=-41, z=-219}
+[17:18:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-42, z=-220} gh{x=-287, y=-41, z=-219}
+[17:18:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-42, z=-220} gh{x=-287, y=-41, z=-219}
+[17:19:35] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-39, z=-219} gh{x=-280, y=-38, z=-218}
+[17:19:35] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-39, z=-219} gh{x=-280, y=-38, z=-218}
+[17:19:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-285, y=-33, z=-222} gh{x=-286, y=-34, z=-222}
+[17:19:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-284, y=-37, z=-222} gh{x=-283, y=-38, z=-222}
+[17:24:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-35, z=-211} gh{x=-278, y=-36, z=-211}
+[17:25:30] [Server thread/INFO]: lopezan11 was shot by Skeleton
+[17:26:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-38, z=-213} gh{x=-279, y=-39, z=-212}
+[17:27:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-34, z=-214} gh{x=-284, y=-34, z=-215}
+[17:27:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-34, z=-214} gh{x=-284, y=-34, z=-215}
+[17:27:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-34, z=-214} gh{x=-284, y=-34, z=-215}
+[17:27:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-283, y=-34, z=-214} gh{x=-284, y=-34, z=-215}
+[17:29:32] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-286, y=-39, z=-221} gh{x=-286, y=-39, z=-222}
+[17:29:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-289, y=-37, z=-213} gh{x=-286, y=-39, z=-214}
+[17:33:19] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[17:33:19] [Server thread/INFO]: Irx99 left the game
+[17:37:04] [User Authenticator #17/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[17:37:04] [Server thread/INFO]: 5ambero[/91.117.160.234:7738] logged in with entity id 178584 at (-55.53162612977611, 236.0, -178.3513744200734)
+[17:37:04] [Server thread/INFO]: 5ambero joined the game
+[17:38:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-292, y=-38, z=-213} gh{x=-292, y=-38, z=-214}
+[17:38:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-292, y=-38, z=-213} gh{x=-292, y=-38, z=-214}
+[17:44:25] [User Authenticator #18/INFO]: UUID of player Irx99 is 46c353ef-21a8-4d3c-85d0-44553c30b77a
+[17:44:25] [Server thread/INFO]: Irx99[/127.0.0.1:63595] logged in with entity id 183910 at (-577.5487947872296, 77.0, -1672.4116935381867)
+[17:44:25] [Server thread/INFO]: Irx99 joined the game
+[17:49:17] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[17:49:17] [Server thread/INFO]: Tactical_July left the game
+[17:55:25] [Server thread/INFO]: [Irx99: Teleported Lalmeja to -300.573501, -20.000000, -208.592537]
+[17:55:49] [Server thread/INFO]: [Irx99: Teleported Lalmeja to -301.781411, -11.000000, -209.816334]
+[17:55:49] [Server thread/WARN]: Lalmeja moved too quickly! -15.733449324606624,30.0,-1.2745158820130769
+[17:56:00] [Server thread/INFO]: [Irx99: Teleported Lalmeja to -298.478544, -10.000000, -205.852838]
+[17:56:00] [Server thread/WARN]: Lalmeja moved too quickly! 3.302866803248264,31.0,3.7929006856404897
+[17:56:08] [Server thread/INFO]: [Irx99: Teleported Lalmeja to -297.367319, -10.000000, -214.070380]
+[17:56:09] [Server thread/WARN]: Lalmeja moved too quickly! 3.028089620674109,10.0,-5.959218962423904
+[17:58:53] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-57, z=-215} gh{x=-294, y=-57, z=-215}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-47, z=-206} gh{x=-298, y=-46, z=-205}
+[18:00:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-302, y=-47, z=-204} gh{x=-297, y=-46, z=-206}
+[18:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-46, z=-201} gh{x=-300, y=-45, z=-201}
+[18:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-46, z=-201} gh{x=-300, y=-45, z=-201}
+[18:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-46, z=-201} gh{x=-300, y=-45, z=-201}
+[18:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-46, z=-201} gh{x=-300, y=-45, z=-201}
+[18:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-46, z=-201} gh{x=-300, y=-45, z=-201}
+[18:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-46, z=-201} gh{x=-300, y=-45, z=-201}
+[18:00:43] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-300, y=-48, z=-205} gh{x=-301, y=-47, z=-206}
+[18:00:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-301, y=-51, z=-203} gh{x=-302, y=-52, z=-203}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:45] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-304, y=-48, z=-205} gh{x=-304, y=-48, z=-204}
+[18:00:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-301, y=-51, z=-202} gh{x=-300, y=-52, z=-203}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-303, y=-48, z=-202} gh{x=-303, y=-48, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-303, y=-48, z=-202} gh{x=-303, y=-48, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-303, y=-48, z=-202} gh{x=-303, y=-48, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-295, y=-47, z=-200} gh{x=-294, y=-47, z=-201}
+[18:01:11] [User Authenticator #19/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[18:01:11] [Server thread/INFO]: Tactical_July[/90.173.206.174:12391] logged in with entity id 193183 at (-284.9583338354023, -37.0, -199.3123453610638)
+[18:01:11] [Server thread/INFO]: Tactical_July joined the game
+[18:01:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-297, y=-46, z=-199} gh{x=-298, y=-47, z=-200}
+[18:08:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-286, y=-58, z=-206} gh{x=-288, y=-60, z=-207}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-205} gh{x=-287, y=-60, z=-208}
+[18:08:57] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-288, y=-58, z=-207} gh{x=-286, y=-59, z=-209}
+[18:09:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-59, z=-206} gh{x=-288, y=-59, z=-205}
+[18:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-287, y=-58, z=-210} gh{x=-286, y=-58, z=-210}
+[18:09:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-296, y=-59, z=-216} gh{x=-295, y=-60, z=-217}
+[18:09:20] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-59, z=-219} gh{x=-295, y=-60, z=-219}
+[18:09:20] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-294, y=-59, z=-219} gh{x=-295, y=-60, z=-219}
+[18:09:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-296, y=-60, z=-217} gh{x=-297, y=-60, z=-218}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-276, y=-50, z=-207} gh{x=-277, y=-50, z=-206}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-276, y=-50, z=-207} gh{x=-277, y=-50, z=-206}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-276, y=-50, z=-207} gh{x=-277, y=-50, z=-206}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-276, y=-50, z=-207} gh{x=-277, y=-50, z=-206}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-276, y=-50, z=-207} gh{x=-277, y=-50, z=-206}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-276, y=-50, z=-207} gh{x=-277, y=-50, z=-206}
+[18:14:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-276, y=-50, z=-207} gh{x=-277, y=-50, z=-206}
+[18:14:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-281, y=-51, z=-197} gh{x=-281, y=-49, z=-198}
+[18:14:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-51, z=-198} gh{x=-281, y=-52, z=-198}
+[18:14:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-51, z=-198} gh{x=-281, y=-52, z=-198}
+[18:14:28] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-51, z=-198} gh{x=-281, y=-52, z=-198}
+[18:14:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=-51, z=-202} gh{x=-276, y=-51, z=-203}
+[18:14:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=-51, z=-202} gh{x=-276, y=-51, z=-203}
+[18:14:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-277, y=-51, z=-202} gh{x=-276, y=-51, z=-203}
+[18:14:38] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-53, z=-205} gh{x=-279, y=-54, z=-206}
+[18:14:38] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-53, z=-205} gh{x=-279, y=-54, z=-206}
+[18:14:38] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-279, y=-53, z=-205} gh{x=-279, y=-54, z=-206}
+[18:14:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-52, z=-194} gh{x=-282, y=-53, z=-195}
+[18:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-52, z=-194} gh{x=-282, y=-53, z=-195}
+[18:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-52, z=-194} gh{x=-282, y=-53, z=-195}
+[18:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-52, z=-194} gh{x=-282, y=-53, z=-195}
+[18:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-52, z=-194} gh{x=-282, y=-53, z=-195}
+[18:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-282, y=-52, z=-194} gh{x=-282, y=-53, z=-195}
+[18:14:52] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-280, y=-52, z=-197} gh{x=-279, y=-50, z=-195}
+[18:14:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-278, y=-51, z=-195} gh{x=-279, y=-50, z=-196}
+[18:14:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-278, y=-51, z=-195} gh{x=-279, y=-50, z=-196}
+[18:14:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-278, y=-51, z=-195} gh{x=-279, y=-50, z=-196}
+[18:14:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-278, y=-51, z=-195} gh{x=-279, y=-50, z=-196}
+[18:14:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-280, y=-50, z=-202} gh{x=-281, y=-50, z=-203}
+[18:17:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-297, y=-53, z=-194} gh{x=-299, y=-54, z=-194}
+[18:18:18] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-292, y=-60, z=-213} gh{x=-292, y=-61, z=-214}
+[18:18:18] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-292, y=-60, z=-213} gh{x=-292, y=-61, z=-214}
+[18:18:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-289, y=-57, z=-221} gh{x=-290, y=-58, z=-220}
+[18:18:35] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[18:18:35] [Server thread/INFO]: Tactical_July left the game
+[18:21:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-289, y=-59, z=-206} gh{x=-287, y=-54, z=-222}
+[18:22:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-296, y=-50, z=-215} gh{x=-297, y=-50, z=-214}
+[18:22:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-296, y=-50, z=-215} gh{x=-297, y=-50, z=-214}
+[18:22:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-296, y=-50, z=-215} gh{x=-297, y=-50, z=-214}
+[18:22:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-296, y=-50, z=-215} gh{x=-297, y=-50, z=-214}
+[18:22:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-298, y=-50, z=-220} gh{x=-297, y=-51, z=-219}
+[18:22:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-298, y=-50, z=-220} gh{x=-297, y=-51, z=-219}
+[18:22:42] [Server thread/INFO]: 5ambero was killed trying to hurt Lalmeja
+[18:27:03] [Server thread/WARN]: 5ambero moved too quickly! 0.006336260354146361,-18.295586139223552,-0.07628606186989373
+[18:29:18] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-53, z=-209} gh{x=-299, y=-53, z=-214}
+[18:29:18] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-299, y=-53, z=-209} gh{x=-299, y=-53, z=-214}
+[18:32:21] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[18:32:21] [Server thread/INFO]: 5ambero left the game
+[18:32:37] [Server thread/INFO]: lopezan11 lost connection: Timed out
+[18:32:37] [Server thread/INFO]: lopezan11 left the game
+[18:32:39] [Server thread/INFO]: Lalmeja lost connection: Timed out
+[18:32:39] [Server thread/INFO]: Lalmeja left the game
+[18:32:42] [User Authenticator #20/INFO]: UUID of player lopezan11 is b228161b-211a-46f3-bb10-ee70f536944f
+[18:32:42] [Server thread/INFO]: lopezan11[/83.53.215.169:57373] logged in with entity id 223056 at (-293.5058236494463, -54.0, -204.76459006167605)
+[18:32:42] [Server thread/INFO]: lopezan11 joined the game
+[18:32:44] [User Authenticator #21/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[18:32:44] [Server thread/INFO]: Lalmeja[/83.53.215.253:57461] logged in with entity id 223069 at (-430.33514827760547, 71.0, -1814.2204426420533)
+[18:32:44] [Server thread/INFO]: Lalmeja joined the game
+[18:33:10] [User Authenticator #22/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[18:33:10] [Server thread/INFO]: 5ambero[/91.117.160.234:1384] logged in with entity id 224228 at (-300.22504982074736, -54.0, -207.63841904215224)
+[18:33:10] [Server thread/INFO]: 5ambero joined the game
+[18:34:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-290, y=-60, z=-210} gh{x=-292, y=-60, z=-209}
+[18:35:16] [Server thread/INFO]: [Irx99: Teleported Lalmeja to -283.300000, -25.000000, -218.572274]
+[18:35:16] [Server thread/WARN]: Lalmeja moved too quickly! 19.43519142177422,-87.0,-7.843896868482403
+[18:43:08] [User Authenticator #23/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[18:43:08] [Server thread/INFO]: Tactical_July[/90.173.206.174:13034] logged in with entity id 229753 at (-291.62840105930934, -60.0, -222.04272347202308)
+[18:43:08] [Server thread/INFO]: Tactical_July joined the game
+[18:45:08] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[18:45:08] [Server thread/INFO]: Lalmeja left the game
+[18:47:40] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[18:47:40] [Server thread/INFO]: Tactical_July left the game
+[18:54:24] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[18:54:24] [Server thread/INFO]: Irx99 left the game
+[18:54:37] [Server thread/INFO]: lopezan11 lost connection: Disconnected
+[18:54:37] [Server thread/INFO]: lopezan11 left the game
+[19:00:07] [Server thread/INFO]: 5ambero fell from a high place
+[19:00:08] [Server thread/INFO]: Skipping update from removed player 'adj['5ambero'/224228, l='ServerLevel[world]', x=-54.27, y=130.00, z=-178.72, removed=KILLED]'
+[19:08:35] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[19:08:35] [Server thread/INFO]: 5ambero left the game
+[19:11:30] [Server thread/INFO]: Stopping server
+[19:11:30] [Server thread/INFO]: Saving players
+[19:11:30] [Server thread/INFO]: Saving worlds
+[19:11:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:11:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:11:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

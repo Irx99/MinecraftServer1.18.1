@@ -620,6 +620,7 @@
       "minecraft:cave_spider": "2021-12-15 22:28:37 +0100",
       "minecraft:piglin": "2021-12-27 00:15:13 +0100",
       "minecraft:enderman": "2022-01-05 23:53:52 +0100",
+      "minecraft:silverfish": "2022-01-07 17:34:52 +0100",
       "minecraft:zombie": "2021-12-15 22:27:04 +0100",
       "minecraft:zombie_villager": "2021-12-20 23:28:42 +0100"
     },
@@ -1466,6 +1467,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-01-07 18:27:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2021-12-23 23:46:56 +0100"
@@ -1721,6 +1728,12 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2022-01-06 01:22:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2022-01-07 17:22:34 +0100"
     },
     "done": true
   },
@@ -2288,6 +2301,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2021-12-15 23:13:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-01-07 18:30:15 +0100"
     },
     "done": true
   },
