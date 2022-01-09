@@ -929,10 +929,12 @@
       "minecraft:blaze": "2021-12-31 22:55:56 +0100",
       "minecraft:skeleton": "2021-12-11 12:23:59 +0100",
       "minecraft:ghast": "2021-12-26 01:57:38 +0100",
+      "minecraft:hoglin": "2022-01-08 00:30:00 +0100",
       "minecraft:magma_cube": "2021-12-31 18:26:54 +0100",
       "minecraft:spider": "2021-12-11 13:55:31 +0100",
       "minecraft:creeper": "2021-12-12 23:47:15 +0100",
       "minecraft:wither": "2022-01-03 23:17:09 +0100",
+      "minecraft:slime": "2022-01-08 01:52:00 +0100",
       "minecraft:phantom": "2021-12-16 00:29:06 +0100",
       "minecraft:zombified_piglin": "2021-12-31 01:54:30 +0100",
       "minecraft:cave_spider": "2021-12-31 19:09:07 +0100",
@@ -3443,6 +3445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-01-08 01:46:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-12-15 22:25:43 +0100"
@@ -4028,6 +4036,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2021-12-26 02:17:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2022-01-08 01:59:24 +0100"
     },
     "done": true
   },
