@@ -964,6 +964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-01-11 23:29:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-12-21 00:16:10 +0100"
@@ -1488,10 +1494,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-12-27 00:35:04 +0100",
       "minecraft:nether_wastes": "2021-12-13 23:18:14 +0100",
+      "minecraft:soul_sand_valley": "2022-01-11 22:28:04 +0100",
       "minecraft:warped_forest": "2021-12-21 00:24:11 +0100",
       "minecraft:basalt_deltas": "2021-12-21 00:12:36 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/diamond": {
     "criteria": {

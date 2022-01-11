@@ -1,23 +1,28 @@
-[00:00:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=73, z=-209} gh{x=-289, y=72, z=-209}
-[00:00:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=73, z=-209} gh{x=-289, y=72, z=-209}
-[00:00:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=73, z=-209} gh{x=-289, y=72, z=-209}
-[00:00:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-291, y=73, z=-209} gh{x=-289, y=72, z=-209}
-[00:15:43] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:15:43] [Server thread/INFO]: 5ambero left the game
-[00:15:46] [User Authenticator #13/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[00:15:46] [Server thread/INFO]: 5ambero[/91.117.160.234:1225] logged in with entity id 84840 at (-276.16324080499095, -58.0, -208.52358999092164)
-[00:15:46] [Server thread/INFO]: 5ambero joined the game
-[00:17:34] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:17:34] [Server thread/INFO]: 5ambero left the game
-[00:21:08] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:21:08] [Server thread/INFO]: Irx99 left the game
-[00:21:28] [Server thread/INFO]: Stopping server
-[00:21:28] [Server thread/INFO]: Saving players
-[00:21:28] [Server thread/INFO]: Saving worlds
-[00:21:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:21:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:21:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:13] [Server thread/WARN]: Lalmeja moved wrongly!
+[00:00:14] [Server thread/WARN]: Lalmeja moved wrongly!
+[00:00:14] [Server thread/WARN]: Lalmeja moved wrongly!
+[00:00:15] [Server thread/WARN]: Lalmeja moved wrongly!
+[00:00:15] [Server thread/WARN]: Lalmeja moved wrongly!
+[00:00:16] [Server thread/WARN]: Lalmeja moved wrongly!
+[00:01:21] [Server thread/INFO]: <Irx99> me voy a otro juego q por hoy me he cansao de este
+[00:01:23] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[00:01:23] [Server thread/INFO]: Irx99 left the game
+[00:10:48] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-439, y=71, z=-1880} gh{x=-439, y=71, z=-1879}
+[00:10:51] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-423, y=76, z=-1871} gh{x=-424, y=76, z=-1871}
+[00:11:37] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-450, y=66, z=-1762} gh{x=-450, y=66, z=-1763}
+[00:11:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-450, y=66, z=-1762} gh{x=-465, y=64, z=-1761}
+[00:11:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-450, y=66, z=-1762} gh{x=-465, y=64, z=-1761}
+[00:12:33] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:12:33] [Server thread/INFO]: Tactical_July left the game
+[00:13:23] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:13:23] [Server thread/INFO]: Lalmeja left the game
+[00:48:59] [Server thread/INFO]: Stopping server
+[00:48:59] [Server thread/INFO]: Saving players
+[00:48:59] [Server thread/INFO]: Saving worlds
+[00:48:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:48:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:48:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
