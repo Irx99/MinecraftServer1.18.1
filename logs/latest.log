@@ -1,28 +1,60 @@
-[00:00:13] [Server thread/WARN]: Lalmeja moved wrongly!
-[00:00:14] [Server thread/WARN]: Lalmeja moved wrongly!
-[00:00:14] [Server thread/WARN]: Lalmeja moved wrongly!
-[00:00:15] [Server thread/WARN]: Lalmeja moved wrongly!
-[00:00:15] [Server thread/WARN]: Lalmeja moved wrongly!
-[00:00:16] [Server thread/WARN]: Lalmeja moved wrongly!
-[00:01:21] [Server thread/INFO]: <Irx99> me voy a otro juego q por hoy me he cansao de este
-[00:01:23] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[00:01:23] [Server thread/INFO]: Irx99 left the game
-[00:10:48] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-439, y=71, z=-1880} gh{x=-439, y=71, z=-1879}
-[00:10:51] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-423, y=76, z=-1871} gh{x=-424, y=76, z=-1871}
-[00:11:37] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-450, y=66, z=-1762} gh{x=-450, y=66, z=-1763}
-[00:11:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-450, y=66, z=-1762} gh{x=-465, y=64, z=-1761}
-[00:11:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-450, y=66, z=-1762} gh{x=-465, y=64, z=-1761}
-[00:12:33] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[00:12:33] [Server thread/INFO]: Tactical_July left the game
-[00:13:23] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[00:13:23] [Server thread/INFO]: Lalmeja left the game
-[00:48:59] [Server thread/INFO]: Stopping server
-[00:48:59] [Server thread/INFO]: Saving players
-[00:48:59] [Server thread/INFO]: Saving worlds
-[00:48:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:48:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:48:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:48:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:05:20] [User Authenticator #6/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
+[00:05:20] [Server thread/INFO]: Lalmeja[/88.14.119.132:50268] logged in with entity id 59430 at (-438.5330610425152, 67.0, -1776.6603590727555)
+[00:05:20] [Server thread/INFO]: Lalmeja joined the game
+[00:09:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-558, y=80, z=-1669} gh{x=-556, y=76, z=-1672}
+[00:09:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-558, y=80, z=-1669} gh{x=-556, y=76, z=-1672}
+[00:20:58] [User Authenticator #7/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[00:20:58] [Server thread/INFO]: Agonesc[/188.26.195.59:65364] logged in with entity id 65990 at (-511.5, 89.0, -1720.5)
+[00:20:58] [Server thread/INFO]: Agonesc joined the game
+[00:22:37] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-558, y=75, z=-1671} gh{x=-554, y=81, z=-1678}
+[00:32:40] [User Authenticator #8/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[00:32:40] [Server thread/INFO]: 5ambero[/91.117.160.234:8504] logged in with entity id 70843 at (-560.5300188445926, 77.0, -1673.3155746156099)
+[00:32:40] [Server thread/INFO]: 5ambero joined the game
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.2813318128754798
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.48171776955257084
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4905507126239729
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9805178782421484
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4814422594990333
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.47616752595024536
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4733451211951092
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9451800298783724
+[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4710268240785922
+[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9416212581967329
+[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4703630708712012
+[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9406023438818352
+[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.47143453968840277
+[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.2522552227965775
+[00:36:17] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.47627702550698814
+[00:41:14] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:14] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:16] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:17] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:18] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:19] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:19] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:19] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:20] [Server thread/WARN]: 5ambero moved wrongly!
+[00:41:43] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:41:43] [Server thread/INFO]: Lalmeja left the game
+[00:44:14] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-559, y=76, z=-1671} gh{x=-557, y=76, z=-1674}
+[00:52:36] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:52:36] [Server thread/INFO]: 5ambero left the game
+[00:52:47] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:52:47] [Server thread/INFO]: Tactical_July left the game
+[01:05:55] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.2699281482956053
+[01:06:09] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4191952654318811
+[01:06:09] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.6751238108006419
+[01:07:36] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[01:07:36] [Server thread/INFO]: Irx99 left the game
+[01:07:47] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[01:07:47] [Server thread/INFO]: Agonesc left the game
+[01:08:03] [Server thread/INFO]: Stopping server
+[01:08:03] [Server thread/INFO]: Saving players
+[01:08:03] [Server thread/INFO]: Saving worlds
+[01:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
