@@ -1,60 +1,97 @@
-[00:05:20] [User Authenticator #6/INFO]: UUID of player Lalmeja is 8c461d8d-abbc-4e52-a002-a3cb22077258
-[00:05:20] [Server thread/INFO]: Lalmeja[/88.14.119.132:50268] logged in with entity id 59430 at (-438.5330610425152, 67.0, -1776.6603590727555)
-[00:05:20] [Server thread/INFO]: Lalmeja joined the game
-[00:09:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-558, y=80, z=-1669} gh{x=-556, y=76, z=-1672}
-[00:09:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-558, y=80, z=-1669} gh{x=-556, y=76, z=-1672}
-[00:20:58] [User Authenticator #7/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
-[00:20:58] [Server thread/INFO]: Agonesc[/188.26.195.59:65364] logged in with entity id 65990 at (-511.5, 89.0, -1720.5)
-[00:20:58] [Server thread/INFO]: Agonesc joined the game
-[00:22:37] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-558, y=75, z=-1671} gh{x=-554, y=81, z=-1678}
-[00:32:40] [User Authenticator #8/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
-[00:32:40] [Server thread/INFO]: 5ambero[/91.117.160.234:8504] logged in with entity id 70843 at (-560.5300188445926, 77.0, -1673.3155746156099)
-[00:32:40] [Server thread/INFO]: 5ambero joined the game
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.2813318128754798
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.48171776955257084
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4905507126239729
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9805178782421484
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4814422594990333
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.47616752595024536
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4733451211951092
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9451800298783724
-[00:35:59] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4710268240785922
-[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9416212581967329
-[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4703630708712012
-[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.9406023438818352
-[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.47143453968840277
-[00:36:00] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.2522552227965775
-[00:36:17] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.47627702550698814
-[00:41:14] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:14] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:16] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:17] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:18] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:19] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:19] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:19] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:20] [Server thread/WARN]: 5ambero moved wrongly!
-[00:41:43] [Server thread/INFO]: Lalmeja lost connection: Disconnected
-[00:41:43] [Server thread/INFO]: Lalmeja left the game
-[00:44:14] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-559, y=76, z=-1671} gh{x=-557, y=76, z=-1674}
-[00:52:36] [Server thread/INFO]: 5ambero lost connection: Disconnected
-[00:52:36] [Server thread/INFO]: 5ambero left the game
-[00:52:47] [Server thread/INFO]: Tactical_July lost connection: Disconnected
-[00:52:47] [Server thread/INFO]: Tactical_July left the game
-[01:05:55] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.2699281482956053
-[01:06:09] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.4191952654318811
-[01:06:09] [Server thread/WARN]: Francisco (vehicle of Agonesc) moved wrongly! 0.6751238108006419
-[01:07:36] [Server thread/INFO]: Irx99 lost connection: Disconnected
-[01:07:36] [Server thread/INFO]: Irx99 left the game
-[01:07:47] [Server thread/INFO]: Agonesc lost connection: Disconnected
-[01:07:47] [Server thread/INFO]: Agonesc left the game
-[01:08:03] [Server thread/INFO]: Stopping server
-[01:08:03] [Server thread/INFO]: Saving players
-[01:08:03] [Server thread/INFO]: Saving worlds
-[01:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:05] [Server thread/INFO]: <Lalmeja> coordenadas de la base¿
+[00:01:16] [Server thread/INFO]: <Irx99> de la base normal?
+[00:01:16] [Server thread/INFO]: <SrVictorVaz> -500 -1000
+[00:01:22] [Server thread/INFO]: <Irx99> no estabas en el end?
+[00:01:24] [Server thread/INFO]: <SrVictorVaz> -1500 perdon
+[00:01:35] [Server thread/INFO]: <Lalmeja> digo de la base del end,para poder salir
+[00:01:51] [Server thread/INFO]: <Irx99> tienes q encontrar otro diamante igual q por el q hemos entrado
+[00:01:59] [Server thread/INFO]: <Irx99> q salen por ahi a lo random
+[00:02:07] [Server thread/INFO]: <Lalmeja> coño acabo de encontrar uno ahora
+[00:02:24] [Server thread/INFO]: Agonesc has made the advancement [The City at the End of the Game]
+[00:03:51] [Server thread/INFO]: Lalmeja lost connection: Disconnected
+[00:03:51] [Server thread/INFO]: Lalmeja left the game
+[00:06:37] [Server thread/INFO]: SrVictorVaz lost connection: Disconnected
+[00:06:37] [Server thread/INFO]: SrVictorVaz left the game
+[00:06:37] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:06:37] [Server thread/INFO]: 5ambero left the game
+[00:06:40] [Server thread/INFO]: Samu177 lost connection: Timed out
+[00:06:40] [Server thread/INFO]: Samu177 left the game
+[00:06:40] [Server thread/WARN]: handleDisconnection() called twice
+[00:06:44] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:06:44] [Server thread/INFO]: Tactical_July left the game
+[00:06:44] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[00:06:44] [Server thread/INFO]: Agonesc left the game
+[00:06:53] [User Authenticator #12/INFO]: Disconnecting com.mojang.authlib.GameProfile@40c7f168[id=<null>,name=Tactical_July,properties={},legacy=false] (/90.173.206.174:12177): Authentication servers are down. Please try again later, sorry!
+[00:06:53] [User Authenticator #12/ERROR]: Couldn't verify username because servers are unavailable
+[00:06:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@40c7f168[id=<null>,name=Tactical_July,properties={},legacy=false] (/90.173.206.174:12177) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:06:58] [User Authenticator #13/INFO]: Disconnecting com.mojang.authlib.GameProfile@2e21e546[id=<null>,name=5ambero,properties={},legacy=false] (/90.173.206.174:12264): Authentication servers are down. Please try again later, sorry!
+[00:06:58] [User Authenticator #13/ERROR]: Couldn't verify username because servers are unavailable
+[00:06:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e21e546[id=<null>,name=5ambero,properties={},legacy=false] (/90.173.206.174:12264) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:07:02] [User Authenticator #14/INFO]: Disconnecting com.mojang.authlib.GameProfile@6d6a3c32[id=<null>,name=Tactical_July,properties={},legacy=false] (/90.173.206.174:12319): Authentication servers are down. Please try again later, sorry!
+[00:07:02] [User Authenticator #14/ERROR]: Couldn't verify username because servers are unavailable
+[00:07:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d6a3c32[id=<null>,name=Tactical_July,properties={},legacy=false] (/90.173.206.174:12319) lost connection: Authentication servers are down. Please try again later, sorry!
+[00:07:11] [User Authenticator #15/INFO]: UUID of player Tactical_July is 0d2b54fb-8cca-4784-9dbd-2be2b39de0f2
+[00:07:11] [Server thread/INFO]: Tactical_July[/90.173.206.174:12342] logged in with entity id 92862 at (-291.32915472485155, 63.0, -1946.5570961016276)
+[00:07:11] [Server thread/INFO]: Tactical_July joined the game
+[00:07:24] [User Authenticator #16/INFO]: UUID of player Samu177 is df2d2df3-f7d9-45f9-a020-5dfaf5476419
+[00:07:24] [Server thread/INFO]: Samu177[/94.14.90.240:61847] logged in with entity id 93608 at (-379.6090186532651, 74.0, -1958.116530202673)
+[00:07:24] [Server thread/INFO]: Samu177 joined the game
+[00:07:30] [User Authenticator #17/INFO]: UUID of player SrVictorVaz is 4a4e083c-1136-49e1-baac-8718eccf2780
+[00:07:30] [Server thread/INFO]: SrVictorVaz[/90.173.206.174:12355] logged in with entity id 93693 at (-375.513234892632, 74.0, -1857.0985105421635)
+[00:07:30] [Server thread/INFO]: SrVictorVaz joined the game
+[00:07:49] [User Authenticator #18/INFO]: UUID of player Agonesc is eed14528-493c-484f-a3cc-c79211c94c31
+[00:07:50] [Server thread/INFO]: Agonesc[/188.26.195.59:41341] logged in with entity id 94051 at (-1835.2661589541342, 94.875, -949.1350859239805)
+[00:07:50] [Server thread/INFO]: Agonesc joined the game
+[00:08:46] [Server thread/INFO]: Agonesc has made the advancement [Ice Bucket Challenge]
+[00:08:51] [User Authenticator #19/INFO]: UUID of player 5ambero is d34d115d-3b91-425d-96d3-8ad86517a428
+[00:08:51] [Server thread/INFO]: 5ambero[/90.173.206.174:12386] logged in with entity id 95075 at (-54.53075991675552, 243.0, -179.32390829422664)
+[00:08:51] [Server thread/INFO]: 5ambero joined the game
+[00:12:28] [Server thread/INFO]: SrVictorVaz has made the advancement [Isn't It Iron Pick]
+[00:14:26] [Server thread/INFO]: Agonesc has made the advancement [Local Brewery]
+[00:14:46] [Server thread/INFO]: Irx99 has made the advancement [The City at the End of the Game]
+[00:14:48] [Server thread/INFO]: Agonesc has reached the goal [Sky's the Limit]
+[00:21:24] [Server thread/INFO]: Samu177 has made the advancement [Stone Age]
+[00:24:07] [Server thread/INFO]: Irx99 has reached the goal [Sky's the Limit]
+[00:27:31] [Server thread/INFO]: 5ambero lost connection: Disconnected
+[00:27:31] [Server thread/INFO]: 5ambero left the game
+[00:28:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-255, y=67, z=-1932} gh{x=-256, y=66, z=-1933}
+[00:28:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-255, y=67, z=-1932} gh{x=-256, y=66, z=-1933}
+[00:30:54] [Server thread/WARN]: Agonesc moved too quickly! -5.748961869610639,-11.0,6.0119835168484315
+[00:32:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-234, y=69, z=-1936} gh{x=-235, y=69, z=-1935}
+[00:34:33] [Server thread/INFO]: SrVictorVaz lost connection: Disconnected
+[00:34:33] [Server thread/INFO]: SrVictorVaz left the game
+[00:35:04] [Server thread/INFO]: Tactical_July lost connection: Disconnected
+[00:35:04] [Server thread/INFO]: Tactical_July left the game
+[00:36:52] [User Authenticator #20/INFO]: UUID of player SrVictorVaz is 4a4e083c-1136-49e1-baac-8718eccf2780
+[00:36:52] [Server thread/INFO]: SrVictorVaz[/90.173.206.174:13117] logged in with entity id 119447 at (-290.09079226280016, 64.0, -1949.7527735814467)
+[00:36:52] [Server thread/INFO]: SrVictorVaz joined the game
+[00:39:39] [Server thread/INFO]: SrVictorVaz lost connection: Disconnected
+[00:39:39] [Server thread/INFO]: SrVictorVaz left the game
+[00:39:59] [Server thread/INFO]: Samu177 lost connection: Disconnected
+[00:39:59] [Server thread/INFO]: Samu177 left the game
+[00:42:10] [Server thread/INFO]: <Agonesc> -1230/58/117
+[00:45:52] [Server thread/INFO]: <Agonesc> -1187/57/-24
+[00:49:36] [Server thread/INFO]: <Agonesc> -1148/79/-1
+[00:49:39] [Server thread/INFO]: Agonesc has made the advancement [Remote Getaway]
+[00:50:06] [User Authenticator #21/INFO]: UUID of player Samu177 is df2d2df3-f7d9-45f9-a020-5dfaf5476419
+[00:50:07] [Server thread/INFO]: Samu177[/94.14.90.240:61259] logged in with entity id 124425 at (-565.2628310431271, 77.0, -1668.6074984947738)
+[00:50:07] [Server thread/INFO]: Samu177 joined the game
+[00:50:09] [Server thread/INFO]: Samu177 has made the advancement [Bring Home the Beacon]
+[00:50:09] [Server thread/INFO]: Samu177 has reached the goal [Beaconator]
+[00:52:43] [Server thread/INFO]: Samu177 lost connection: Disconnected
+[00:52:43] [Server thread/INFO]: Samu177 left the game
+[01:08:50] [Server thread/INFO]: Agonesc has made the advancement [The Parrots and the Bats]
+[01:28:29] [Server thread/INFO]: Agonesc lost connection: Disconnected
+[01:28:29] [Server thread/INFO]: Agonesc left the game
+[01:31:03] [Server thread/INFO]: Irx99 lost connection: Disconnected
+[01:31:03] [Server thread/INFO]: Irx99 left the game
+[01:31:07] [Server thread/INFO]: Stopping server
+[01:31:07] [Server thread/INFO]: Saving players
+[01:31:07] [Server thread/INFO]: Saving worlds
+[01:31:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:31:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:31:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
